@@ -92,15 +92,14 @@ Updated	 :	10.22.2018
 
 .web-background{
 	background-image: url('../../images/browsericons-1.png');
-	background-color: #F5AE22;
+	
 
 }	
 .gradiant-background,
 .bg-gradiant.mfp-bg,
 .box-icon,
-.team-member .team-photo:after{
-	background-image: -o-linear-gradient(157deg, #F5AE22 0%, #EA6454 100%);
-	background-image: linear-gradient(293deg, #F5AE22 0%, #EA6454 100%);
+.team-member .team-photo:after{	
+	background-color:#142c37 ;
 }
 
 .meta-heading{

@@ -461,13 +461,13 @@ label.error {
 .side-heading a:hover{
 	border-color:transparent;
 }
-.bg-gradiant.mfp-bg,
+/* .bg-gradiant.mfp-bg,
 .gradiant-background{
 	background-color: #f58f0a;
 	background-image: -o-linear-gradient(157deg, #ed7835 0%, #dbcf1f 100%);
-	background-image: linear-gradient(293deg, #ed6935 0%, #b9db1f 100%);
+	background-image: linear-gradient(293deg, #ed6935 0%, #b9db1f 100%); 
 }
-
+*/
 /* @v120 -s */
 .theme-pro .section.gradiant-background{
 	background: #ecf4fd;
