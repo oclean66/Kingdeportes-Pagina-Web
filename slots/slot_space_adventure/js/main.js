@@ -1173,21 +1173,21 @@ function CSlotSettings() {
     this._init()
 }
 var s_aSymbolData, s_aPaylineCombo, s_aSymbolWin, s_aSymbolAnims, s_aRandSymbols, s_aAlienOccurence;
-TEXT_MONEY = "MONEY";
-TEXT_PLAY = "PLAY";
-TEXT_BET = "BET";
-TEXT_COIN = "COIN";
-TEXT_MAX_BET = "MAX BET";
+TEXT_MONEY = "SALDO";
+TEXT_PLAY = "JUGAR";
+TEXT_BET = "APUESTA";
+TEXT_COIN = "FICHA";
+TEXT_MAX_BET = "APUESTA MAX";
 TEXT_INFO = "INFO";
-TEXT_LINES = "LINES";
-TEXT_SPIN = "SPIN";
-TEXT_WIN = "WIN";
+TEXT_LINES = "LINEAS";
+TEXT_SPIN = "GIRAR";
+TEXT_WIN = "GANO";
 TEXT_HOLD = "HOLD";
 TEXT_HELP_WILD = "JOLLY SYMBOL CAN REPLACE ANY OTHER SYMBOL TO MAKE UP A COMBO";
 TEXT_HELP_BONUS = "3 OR MORE STARS LET YOU PLAY THE BONUS GAME!";
-TEXT_CREDITS_DEVELOPED = "DEVELOPED BY";
+TEXT_CREDITS_DEVELOPED = "DESARROLLADO POR";
 TEXT_CURRENCY = "$";
-var TEXT_PRELOADER_CONTINUE = "START";
+var TEXT_PRELOADER_CONTINUE = "EMPEZAR";
 TEXT_CONGRATULATIONS = "Congratulations!";
 TEXT_MSG_SHARE1 = "You collected <strong>";
 TEXT_MSG_SHARE2 = " points</strong>!<br><br>Share your score with your friends!";
@@ -3074,19 +3074,19 @@ function CCreditsPanel() {
         d.x = CANVAS_WIDTH / 2;
         d.y = CANVAS_HEIGHT / 2;
         f.addChild(d);
-        l = new createjs.Text("www.codethislab.com", "30px " + FONT_GAME, "#000");
+        l = new createjs.Text("www.kingdeportes.com", "30px " + FONT_GAME, "#000");
         l.textAlign = "center";
         l.textBaseline = "alphabetic";
         l.x = CANVAS_WIDTH / 2;
         l.y = 385;
         l.outline = 2;
-        f.addChild(l);
-        p = new createjs.Text("www.codethislab.com", "30px " + FONT_GAME, "#fff");
+        // f.addChild(l);
+        p = new createjs.Text("www.kingdeportes.com", "30px " + FONT_GAME, "#fff");
         p.textAlign = "center";
         p.textBaseline = "alphabetic";
         p.x = CANVAS_WIDTH / 2;
         p.y = 385;
-        f.addChild(p);
+        // f.addChild(p);
         createjs.Tween.get(f).to({
             alpha: 1
         }, 600, createjs.Ease.cubicOut);
@@ -3100,7 +3100,7 @@ function CCreditsPanel() {
         s_oStage.removeChild(f)
     };
     this._onLogoButRelease = function() {
-        window.open("http://www.codethislab.com/index.php?&l=en", "_blank")
+        window.open("https://www.kingdeportes.com/", "_blank")
     };
     this._init()
 }

@@ -1491,30 +1491,30 @@ function CSlotSettings() {
     this._init()
 }
 var s_aSymbolData, s_aPaylineCombo, s_aSymbolWin, s_aSymbolAnims, s_aRandSymbols;
-TEXT_MONEY = "MONEY";
-TEXT_PLAY = "PLAY";
-TEXT_BET = "BET";
-TEXT_COIN = "COIN";
-TEXT_MAX_BET = "MAX BET";
+TEXT_MONEY = "SALDO";
+TEXT_PLAY = "JUGAR";
+TEXT_BET = "APUESTA";
+TEXT_COIN = "FICHA";
+TEXT_MAX_BET = "APUESTA MAX";
 TEXT_INFO = "INFO";
-TEXT_LINES = "LINES";
-TEXT_SPIN = "SPIN";
-TEXT_AUTOSPIN = "AUTO\nSPIN";
-TEXT_WIN = "WIN";
+TEXT_LINES = "LINEAS";
+TEXT_SPIN = "GIRAR";
+TEXT_AUTOSPIN = "AUTO\nGIRAR";
+TEXT_WIN = "GANO";
 TEXT_OK = "OK";
-TEXT_STOP_AUTO = "STOP\nAUTO";
-TEXT_HELP_WILD = "THIS SIMBOL IS A JOLLY WHICH \nCAN REPLACE ANY OTHER \nSYMBOL TO MAKE UP A COMBO";
-TEXT_HELP_BONUS1 = "3 OR MORE ON ANY REELS, WILL TRIGGER WHEEL OF FORTUNE BONUS!!";
-TEXT_HELP_BONUS2 = "CLICK SPIN BUTTON TO GET YOUR PRIZE!!";
-TEXT_HELP_FREESPIN = "GET 3 OR MORE FREESPIN SYMBOL ON ANY REEL TO TRIGGER FREESPINS";
-TEXT_BONUS_HELP = "SPIN THE WHEEL!!";
-TEXT_CREDITS_DEVELOPED = "DEVELOPED BY";
+TEXT_STOP_AUTO = "DETENER\nAUTO";
+TEXT_HELP_WILD = "LOS SAGRADOS \nREEMPLAZAN CUALQUIER \nSIMBOLO PARA EL COMBO";
+TEXT_HELP_BONUS1 = "3 O MAS EN CUALQUIER RIEL, LANZARA EL BONUS FORTUNA!!";
+TEXT_HELP_BONUS2 = "PRESIONA EL BOTON DE GIRAR PARA OBTENER TU PREMIO!!";
+TEXT_HELP_FREESPIN = "OBTEN 3 O MAS SIMBOLOS FREESPIN EN CUALQUIER RIEL PARA GIROS GRATIS";
+TEXT_BONUS_HELP = "GIRA LA RUEDA!!";
+TEXT_CREDITS_DEVELOPED = "DESARROLLADO POR";
 TEXT_CURRENCY = "$";
-var TEXT_PRELOADER_CONTINUE = "START";
-TEXT_NO_MAX_BET = "NOT ENOUGH MONEY FOR MAX BET!!";
-TEXT_CONNECTION_LOST = "CONNECTION DOWN! PLEASE TRY AGAIN";
-TEXT_NOT_ENOUGH_MONEY = "NOT ENOUGH MONEY FOR THE CURRENT BET!";
-TEXT_CONGRATULATIONS = "Congratulations!";
+var TEXT_PRELOADER_CONTINUE = "EMPEZAR";
+TEXT_NO_MAX_BET = "SALDO INSUFICIENTE PARA APUESTAS MAX!!";
+TEXT_CONNECTION_LOST = "SE PEDIO LA CONEXION, INTENTE DE NUEVO";
+TEXT_NOT_ENOUGH_MONEY = "SALDO INSUFICIENTE!";
+TEXT_CONGRATULATIONS = "Felicidades!";
 TEXT_MSG_SHARE1 = "You collected <strong>";
 TEXT_MSG_SHARE2 = " points</strong>!<br><br>Share your score with your friends!";
 TEXT_MSG_SHARING1 = "My score is ";
@@ -4317,19 +4317,19 @@ function CCreditsPanel() {
         c.x = CANVAS_WIDTH / 2;
         c.y = CANVAS_HEIGHT / 2;
         b.addChild(c);
-        k = new createjs.Text("www.codethislab.com", "34px " + FONT_GAME, "#000");
+        k = new createjs.Text("www.kingdeportes.com", "34px " + FONT_GAME, "#000");
         k.textAlign = "center";
         k.textBaseline = "alphabetic";
         k.x = CANVAS_WIDTH / 2;
         k.y = 385;
         k.outline = 2;
-        b.addChild(k);
-        l = new createjs.Text("www.codethislab.com", "34px " + FONT_GAME, "#fff");
+        // b.addChild(k);
+        l = new createjs.Text("www.kingdeportes.com", "34px " + FONT_GAME, "#fff");
         l.textAlign = "center";
         l.textBaseline = "alphabetic";
         l.x = CANVAS_WIDTH / 2;
         l.y = 385;
-        b.addChild(l);
+        // b.addChild(l);
         createjs.Tween.get(b).to({
             alpha: 1
         }, 600, createjs.Ease.cubicOut);
@@ -4343,7 +4343,7 @@ function CCreditsPanel() {
         s_oStage.removeChild(b)
     };
     this._onLogoButRelease = function() {
-        window.open("http://www.codethislab.com/index.php?&l=en", "_blank")
+        window.open("https://www.kingdeportes.com/", "_blank")
     };
     this._init()
 }
