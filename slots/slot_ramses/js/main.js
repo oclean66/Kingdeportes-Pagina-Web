@@ -1198,6 +1198,7 @@ function CSlotSettings() {
 var s_aSymbolData, s_aPaylineCombo, s_aSymbolWin, s_aSymbolAnims, s_aRandSymbols, s_aPrizeOccurence;
 TEXT_MONEY = "SALDO";
 TEXT_PLAY = "EMPEZAR";
+TEXT_BACK = "LOBBY";
 TEXT_BET = "APUESTA";
 TEXT_COIN = "FICHA";
 TEXT_MAX_BET = "APUESTA MAX";
@@ -1857,8 +1858,12 @@ function CMenu() {
         e = createBitmap(s_oSpriteLibrary.getSprite("bg_menu"));
         s_oStage.addChild(e);
         var p = s_oSpriteLibrary.getSprite("but_play_bg");
-        r = new CTextButton(CANVAS_WIDTH / 2, CANVAS_HEIGHT - 80, p, TEXT_PLAY, FONT_GAME, "#ffde00", 58);
+        
+        r = new CTextButton((CANVAS_WIDTH /2)+150, CANVAS_HEIGHT - 80, p, TEXT_PLAY, FONT_GAME, "#aade00", 58);
+        back = new CTextButton((CANVAS_WIDTH /2)-150,  CANVAS_HEIGHT - 80, p, TEXT_BACK, FONT_GAME, "#ffde00", 58);
+
         r.addEventListener(ON_MOUSE_UP, this._onButPlayRelease, this);
+        back.addEventListener(ON_MOUSE_UP,this._backLobby ,this)
         if (!1 === DISABLE_SOUND_MOBILE || !1 === s_bMobile) p = s_oSpriteLibrary.getSprite("audio_icon"), l = CANVAS_WIDTH - p.width / 4 - 10, k = p.height / 2 + 10, h = new CToggle(l, k, p,
             s_bAudioActive, s_oStage), h.addEventListener(ON_MOUSE_UP, this._onAudioToggle, this), setVolume("soundtrack", 1);
         SHOW_CREDITS ? (p = s_oSpriteLibrary.getSprite("but_credits"), a = p.height / 2 + 10, f = p.height / 2 + 10, x = new CGfxButton(a, f, p, s_oStage), x.addEventListener(ON_MOUSE_UP, this._onButCreditsRelease, this), c = a + p.width + 10, b = f) : (c = p.height / 2 + 10, b = p.height / 2 + 10);
@@ -1897,6 +1902,10 @@ function CMenu() {
         this.unload();
         s_oMain.gotoGame();
         $(s_oMain).trigger("start_session")
+    };
+      this._backLobby = function() {
+        this.unload();
+        window.location.href='https://kingdeportes.com'
     };
     this._onAudioToggle =
         function() {
