@@ -26,19 +26,19 @@
         $(document).ready(function() {
             var oMain = new CMain({
                 win_occurrence: 30, //WIN PERCENTAGE.SET A VALUE FROM 0 TO 100.
-                slot_cash: 100, //THIS IS THE CURRENT SLOT CASH AMOUNT. THE GAME CHECKS IF THERE IS AVAILABLE CASH FOR WINNINGS.
+                slot_cash: 10000, //THIS IS THE CURRENT SLOT CASH AMOUNT. THE GAME CHECKS IF THERE IS AVAILABLE CASH FOR WINNINGS.
                 min_reel_loop: 0, //NUMBER OF REEL LOOPS BEFORE SLOT STOPS  
                 reel_delay: 2, //NUMBER OF FRAMES TO DELAY THE REELS THAT START AFTER THE FIRST ONE
                 time_show_win: 2000, //DURATION IN MILLISECONDS OF THE WINNING COMBO SHOWING
                 time_show_all_wins: 2000, //DURATION IN MILLISECONDS OF ALL WINNING COMBO
-                money: 100, //STARING CREDIT FOR THE USER
+                money: 10000, //STARING CREDIT FOR THE USER
                 freespin_occurrence: 15, //IF USER MUST WIN, SET THIS VALUE FOR FREESPIN OCCURRENCE
                 bonus_occurrence: 15, //IF USER MUST WIN, SET THIS VALUE FOR BONUS OCCURRENCE
                 freespin_symbol_num_occur: [50, 30, 20], //WHEN PLAYER GET FREESPIN, THIS ARRAY GET THE OCCURRENCE OF RECEIVING 3,4 OR 5 FREESPIN SYMBOLS IN THE WHEEL
                 num_freespin: [4, 6, 8], //THIS IS THE NUMBER OF FREESPINS IF IN THE FINAL WHEEL THERE ARE 3,4 OR 5 FREESPIN SYMBOLS
                 bonus_prize: [10, 30, 60, 90, 0, 20, 60, 120, 200, 0, 40, 30, 20, 10, 0, 80, 60, 40, 1000, 0], //THIS IS THE LIST OF BONUS PRIZES. KEEP BEST PRIZE IN PENULTIMATE POSITION IN ARRAY
                 bonus_prize_occur: [6, 6, 6, 5, 6, 5, 4, 3, 1, 5, 5, 6, 7, 5, 4, 4, 5, 5, 1, 4], //OCCURRENCE FOR EACH PRIZE IN BONUS_PRIZES. HIGHER IS THE NUMBER, MORE POSSIBILITY OF OUTPUT HAS THE PRIZE
-                coin_bet: [0.05, 0.1, 0.15, 0.20, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5], //COIN BET VALUES
+                coin_bet: [100,200,300,400,500,600,700,800,900,1000], //COIN BET VALUES
                 /***********PAYTABLE********************/
                 //EACH SYMBOL PAYTABLE HAS 5 VALUES THAT INDICATES THE MULTIPLIER FOR X1,X2,X3,X4 OR X5
                 paytable_symbol_1: [0, 0, 90, 150, 200], //PAYTABLE FOR SYMBOL 1
@@ -52,7 +52,7 @@
                 audio_enable_on_startup: true, //ENABLE/DISABLE AUDIO WHEN GAME STARTS 
                 fullscreen: true, //SET THIS TO FALSE IF YOU DON'T WANT TO SHOW FULLSCREEN BUTTON
                 check_orientation: true, //SET TO FALSE IF YOU DON'T WANT TO SHOW ORIENTATION ALERT ON MOBILE DEVICES
-                show_credits: true, //ENABLE/DISABLE CREDITS BUTTON IN THE MAIN SCREEN
+                show_credits: false, //ENABLE/DISABLE CREDITS BUTTON IN THE MAIN SCREEN
                 num_spin_ads_showing: 10 //NUMBER OF SPIN TO COMPLETE, BEFORE TRIGGERING AD SHOWING.
                 //// THIS FUNCTIONALITY IS ACTIVATED ONLY WITH CTL ARCADE PLUGIN.///////////////////////////
                 /////////////////// YOU CAN GET IT AT: /////////////////////////////////////////////////////////

@@ -1493,6 +1493,7 @@ function CSlotSettings() {
 var s_aSymbolData, s_aPaylineCombo, s_aSymbolWin, s_aSymbolAnims, s_aRandSymbols;
 TEXT_MONEY = "SALDO";
 TEXT_PLAY = "JUGAR";
+TEXT_BACK = "LOBBY";
 TEXT_BET = "APUESTA";
 TEXT_COIN = "FICHA";
 TEXT_MAX_BET = "APUESTA MAX";
@@ -2194,13 +2195,18 @@ function CBetBut(a, e, c) {
 function CMenu() {
     var a, e, c, f, g, m, h = null,
         l = null,
-        k, b, d, t, u, r;
+        k, b, d, t, back, u, r;
     this._init = function() {
         d = createBitmap(s_oSpriteLibrary.getSprite("bg_menu"));
         s_oAttachSection.addChild(d);
         var x = s_oSpriteLibrary.getSprite("but_bg");
-        t = new CTextButton(CANVAS_WIDTH / 2, CANVAS_HEIGHT - 164, x, TEXT_PLAY, FONT_GAME, "#ffffff", 40, s_oStage);
+        
+        back = new CTextButton((CANVAS_WIDTH / 2)-150, CANVAS_HEIGHT - 164, x, TEXT_BACK, FONT_GAME, "#ffffff", 40, s_oStage);
+        back.addEventListener(ON_MOUSE_UP, this._backLobby, this);
+        
+        t = new CTextButton((CANVAS_WIDTH / 2)+150, CANVAS_HEIGHT - 164, x, TEXT_PLAY, FONT_GAME, "#ffffff", 40, s_oStage);
         t.addEventListener(ON_MOUSE_UP, this._onButPlayRelease, this);
+        
         if (!1 === DISABLE_SOUND_MOBILE || !1 === s_bMobile) x = s_oSpriteLibrary.getSprite("audio_icon"), g = CANVAS_WIDTH - x.width / 4 - 10, m = x.height / 2 + 10, u = new CToggle(g,
             m, x, s_bAudioActive, s_oAttachSection), u.addEventListener(ON_MOUSE_UP, this._onAudioToggle, this);
         SHOW_CREDITS ? (x = s_oSpriteLibrary.getSprite("but_credits"), a = x.height / 2 + 10, e = x.height / 2 + 10, k = new CGfxButton(a, e, x, s_oAttachSection), k.addEventListener(ON_MOUSE_UP, this._onButCreditsRelease, this), c = a + x.width, f = e) : (c = x.height / 2 + 10, f = x.height / 2 + 10);
@@ -2222,6 +2228,8 @@ function CMenu() {
         this.refreshButtonPos(s_iOffsetX, s_iOffsetY)
     };
     this.unload = function() {
+        back.unload();
+        back = null;
         t.unload();
         t = null;
         if (!1 === DISABLE_SOUND_MOBILE || !1 === s_bMobile) u.unload(), u = null;
@@ -2239,6 +2247,10 @@ function CMenu() {
     };
     this._onButPlayRelease = function() {
         tryCheckLogin()
+    };
+    this._backLobby = function() {
+        this.unload();
+        window.location.href='https://kingdeportes.com'
     };
     this.exitFromMenu =
         function() {
@@ -2867,6 +2879,8 @@ function CInterface(a, e, c) {
         this.refreshButtonPos(s_iOffsetX, s_iOffsetY)
     };
     this.unload = function() {
+        back.unload();
+        back = null;
         t.unload();
         t = null;
         u.unload();
