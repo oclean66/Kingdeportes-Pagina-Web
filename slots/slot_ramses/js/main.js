@@ -2203,8 +2203,8 @@ function CGame(a) {
         a > p ? z.disableSpin() : z.enableSpin()
     };
     this.changeCoinBet = function() {
-        var a = Math.floor(100 * (h + .05)) / 100;
-        a > MAX_BET ? (h = MIN_BET, m = h * e, m = Math.floor(100 * m) / 100, z.refreshBet(h), z.refreshTotalBet(m), a = m) : (a *= e, h += .05, h = Math.floor(100 * h) / 100,
+        var a = Math.floor(100 * (h + 100)) / 100;
+        a > MAX_BET ? (h = MIN_BET, m = h * e, m = Math.floor(100 * m) / 100, z.refreshBet(h), z.refreshTotalBet(m), a = m) : (a *= e, h += 100, h = Math.floor(100 * h) / 100,
             m = a, m = Math.floor(100 * m) / 100, z.refreshBet(h), z.refreshTotalBet(m));
         a > p ? z.disableSpin() : z.enableSpin()
     };
