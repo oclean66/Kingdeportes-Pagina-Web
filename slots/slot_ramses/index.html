@@ -26,7 +26,7 @@
         $(document).ready(function() {
             var oMain = new CMain({
                 win_occurrence: 30, //WIN PERCENTAGE.SET A VALUE FROM 0 TO 100.
-                slot_cash: 10000, //THIS IS THE CURRENT SLOT CASH AMOUNT. THE GAME CHECKS IF THERE IS AVAILABLE CASH FOR WINNINGS.
+                slot_cash: 1000, //THIS IS THE CURRENT SLOT CASH AMOUNT. THE GAME CHECKS IF THERE IS AVAILABLE CASH FOR WINNINGS.
                 bonus_occurrence: 15, //SET BONUS OCCURRENCE PERCENTAGE IF PLAYER GET A WIN. SET A VALUE FROM 0 TO 100. (IF 100%, PLAYER GET A BONUS EVERYTIME THERE IS A WIN).
                 min_reel_loop: 1, //NUMBER OF REEL LOOPS BEFORE SLOT STOPS  
                 reel_delay: 0, //NUMBER OF FRAMES TO DELAY THE REELS THAT START AFTER THE FIRST ONE
@@ -80,6 +80,7 @@
                 var iBet = oBetInfo.bet;
                 var iTotBet = oBetInfo.tot_bet;
                 //...ADD YOUR CODE HERE EVENTUALLY
+                // console.log(evt, oBetInfo)
             });
 
             $(oMain).on("bonus_start", function(evt) {
@@ -97,6 +98,7 @@
                     });
                 }
                 //...ADD YOUR CODE HERE EVENTUALLY
+                // console.log(evt, iMoney)
             });
 
             $(oMain).on("show_interlevel_ad", function(evt) {
@@ -111,6 +113,7 @@
                     parent.__ctlArcadeShareEvent(oData);
                 }
                 //...ADD YOUR CODE HERE EVENTUALLY
+                console.log(evt, oData)
             });
 
             if (isIOS()) {
@@ -129,7 +132,7 @@
 
     <canvas id="canvas" class='ani_hack' width="1500" height="640"> </canvas>
     <div data-orientation="landscape" class="orientation-msg-container">
-        <p class="orientation-msg-text">Please rotate your device</p>
+        <p class="orientation-msg-text">Activa la rotacion y gira tu telefono</p>
     </div>
     <div id="block_game" style="position: fixed; background-color: transparent; top: 0px; left: 0px; width: 100%; height: 100%; display:none"></div>
 </body>

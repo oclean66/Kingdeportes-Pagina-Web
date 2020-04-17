@@ -4,7 +4,7 @@
  Copyright 2011-2013 John-David Dalton
  Available under MIT license <https://mths.be/mit>
 */
-(function() {
+(function () {
     function a(a) {
         a = String(a);
         return a.charAt(0).toUpperCase() + a.slice(1)
@@ -43,7 +43,7 @@
 
     function g(a, e) {
         var g = null;
-        f(a, function(b, c) {
+        f(a, function (b, c) {
             g = e(g, b, c, a)
         });
         return g
@@ -51,7 +51,7 @@
 
     function n(a) {
         function e(d) {
-            return g(d, function(d, e) {
+            return g(d, function (d, e) {
                 var g = e.pattern || q(e);
                 !d && (d = RegExp("\\b" + g + " *\\d+[.\\w_]*", "i").exec(a) || RegExp("\\b" + g + " *\\w+-[\\w]*", "i").exec(a) || RegExp("\\b" + g + "(?:; *(?:[a-z]+[_-])?[a-z]+\\d+|[^ ();-]*)", "i").exec(a)) && ((d = String(e.label && !RegExp(g, "i").test(e.label) ? e.label : d).split("/"))[1] && !/[\d.]+/.test(d[0]) && (d[0] +=
                     " " + d[1]), e = e.label || e, d = c(d[0].replace(RegExp(g, "i"), e).replace(RegExp("; *(?:" + e + "[_-])?", "i"), " ").replace(RegExp("(" + e + ")[-_.]?(\\w)", "i"), "$1 $2")));
@@ -60,7 +60,7 @@
         }
 
         function f(d) {
-            return g(d, function(d, e) {
+            return g(d, function (d, e) {
                 return d || (RegExp(e + "(?:-[\\d.]+/|(?: for [\\w-]+)?[ /-])([\\d.]+[^ ();/_-]*)", "i").exec(a) || 0)[1] || null
             })
         }
@@ -86,26 +86,26 @@
         var V = null,
             P = a == v;
         v = P && N && "function" == typeof N.version && N.version();
-        var E = function(d) {
-                return g(d, function(d, e) {
-                    return d || RegExp("\\b" + (e.pattern || q(e)) + "\\b", "i").exec(a) && (e.label ||
-                        e)
-                })
-            }([{
-                label: "EdgeHTML",
-                pattern: "Edge"
-            }, "Trident", {
-                label: "WebKit",
-                pattern: "AppleWebKit"
-            }, "iCab", "Presto", "NetFront", "Tasman", "KHTML", "Gecko"]),
-            t = function(d) {
-                return g(d, function(d, e) {
+        var E = function (d) {
+            return g(d, function (d, e) {
+                return d || RegExp("\\b" + (e.pattern || q(e)) + "\\b", "i").exec(a) && (e.label ||
+                    e)
+            })
+        }([{
+            label: "EdgeHTML",
+            pattern: "Edge"
+        }, "Trident", {
+            label: "WebKit",
+            pattern: "AppleWebKit"
+        }, "iCab", "Presto", "NetFront", "Tasman", "KHTML", "Gecko"]),
+            t = function (d) {
+                return g(d, function (d, e) {
                     return d || RegExp("\\b" + (e.pattern || q(e)) + "\\b", "i").exec(a) && (e.label || e)
                 })
             }(["Adobe AIR", "Arora", "Avant Browser", "Breach", "Camino", "Electron", "Epiphany", "Fennec", "Flock", "Galeon", "GreenBrowser", "iCab", "Iceweasel", "K-Meleon", "Konqueror", "Lunascape", "Maxthon", {
-                    label: "Microsoft Edge",
-                    pattern: "Edge"
-                }, "Midori", "Nook Browser",
+                label: "Microsoft Edge",
+                pattern: "Edge"
+            }, "Midori", "Nook Browser",
                 "PaleMoon", "PhantomJS", "Raven", "Rekonq", "RockMelt", {
                     label: "Samsung Internet",
                     pattern: "SamsungBrowser"
@@ -140,49 +140,49 @@
                 }, "Safari"
             ]),
             F = e([{
-                    label: "BlackBerry",
-                    pattern: "BB10"
-                }, "BlackBerry", {
-                    label: "Galaxy S",
-                    pattern: "GT-I9000"
-                }, {
-                    label: "Galaxy S2",
-                    pattern: "GT-I9100"
-                }, {
-                    label: "Galaxy S3",
-                    pattern: "GT-I9300"
-                }, {
-                    label: "Galaxy S4",
-                    pattern: "GT-I9500"
-                }, {
-                    label: "Galaxy S5",
-                    pattern: "SM-G900"
-                }, {
-                    label: "Galaxy S6",
-                    pattern: "SM-G920"
-                }, {
-                    label: "Galaxy S6 Edge",
-                    pattern: "SM-G925"
-                }, {
-                    label: "Galaxy S7",
-                    pattern: "SM-G930"
-                }, {
-                    label: "Galaxy S7 Edge",
-                    pattern: "SM-G935"
-                }, "Google TV", "Lumia", "iPad",
+                label: "BlackBerry",
+                pattern: "BB10"
+            }, "BlackBerry", {
+                label: "Galaxy S",
+                pattern: "GT-I9000"
+            }, {
+                label: "Galaxy S2",
+                pattern: "GT-I9100"
+            }, {
+                label: "Galaxy S3",
+                pattern: "GT-I9300"
+            }, {
+                label: "Galaxy S4",
+                pattern: "GT-I9500"
+            }, {
+                label: "Galaxy S5",
+                pattern: "SM-G900"
+            }, {
+                label: "Galaxy S6",
+                pattern: "SM-G920"
+            }, {
+                label: "Galaxy S6 Edge",
+                pattern: "SM-G925"
+            }, {
+                label: "Galaxy S7",
+                pattern: "SM-G930"
+            }, {
+                label: "Galaxy S7 Edge",
+                pattern: "SM-G935"
+            }, "Google TV", "Lumia", "iPad",
                 "iPod", "iPhone", "Kindle", {
-                    label: "Kindle Fire",
-                    pattern: "(?:Cloud9|Silk-Accelerated)"
-                }, "Nexus", "Nook", "PlayBook", "PlayStation Vita", "PlayStation", "TouchPad", "Transformer", {
-                    label: "Wii U",
-                    pattern: "WiiU"
-                }, "Wii", "Xbox One", {
-                    label: "Xbox 360",
-                    pattern: "Xbox"
-                }, "Xoom"
+                label: "Kindle Fire",
+                pattern: "(?:Cloud9|Silk-Accelerated)"
+            }, "Nexus", "Nook", "PlayBook", "PlayStation Vita", "PlayStation", "TouchPad", "Transformer", {
+                label: "Wii U",
+                pattern: "WiiU"
+            }, "Wii", "Xbox One", {
+                label: "Xbox 360",
+                pattern: "Xbox"
+            }, "Xoom"
             ]),
-            K = function(d) {
-                return g(d, function(d, e, g) {
+            K = function (d) {
+                return g(d, function (d, e, g) {
                     return d || (e[F] || e[/^[a-z]+(?: +[a-z]+\b)*/i.exec(F)] || RegExp("\\b" + q(g) + "(?:\\b|\\w*\\d)", "i").exec(a)) && g
                 })
             }({
@@ -239,8 +239,8 @@
                     "PlayStation Vita": 1
                 }
             }),
-            u = function(d) {
-                return g(d, function(d, e) {
+            u = function (d) {
+                return g(d, function (d, e) {
                     var g = e.pattern || q(e);
                     if (!d && (d = RegExp("\\b" + g + "(?:/[\\d.]+|[ \\w.]*)", "i").exec(a))) {
                         var J = d,
@@ -268,9 +268,9 @@
                     return d
                 })
             }(["Windows Phone", "Android", "CentOS", {
-                    label: "Chrome OS",
-                    pattern: "CrOS"
-                }, "Debian", "Fedora", "FreeBSD", "Gentoo", "Haiku", "Kubuntu", "Linux Mint", "OpenBSD", "Red Hat", "SuSE", "Ubuntu", "Xubuntu", "Cygwin", "Symbian OS", "hpwOS", "webOS ", "webOS", "Tablet OS", "Tizen", "Linux", "Mac OS X", "Macintosh", "Mac",
+                label: "Chrome OS",
+                pattern: "CrOS"
+            }, "Debian", "Fedora", "FreeBSD", "Gentoo", "Haiku", "Kubuntu", "Linux Mint", "OpenBSD", "Red Hat", "SuSE", "Ubuntu", "Xubuntu", "Cygwin", "Symbian OS", "hpwOS", "webOS ", "webOS", "Tablet OS", "Tizen", "Linux", "Mac OS X", "Macintosh", "Mac",
                 "Windows 98;", "Windows "
             ]);
         E && (E = [E]);
@@ -280,7 +280,7 @@
         "Opera Mini" == t && /\bOPiOS\b/.test(a) && m.push("running in Turbo/Uncompressed mode");
         "IE" == t && /\blike iPhone OS\b/.test(a) ? (d = n(a.replace(/like iPhone OS/, "")), K = d.manufacturer, F = d.product) : /^iP/.test(F) ? (t || (t = "Safari"), u = "iOS" + ((d = / OS ([\d_]+)/i.exec(a)) ? " " + d[1].replace(/_/g, ".") : "")) : "Konqueror" != t || /buntu/i.test(u) ? K && "Google" != K && (/Chrome/.test(t) &&
             !/\bMobile Safari\b/i.test(a) || /\bVita\b/.test(F)) || /\bAndroid\b/.test(u) && /^Chrome/.test(t) && /\bVersion\//i.test(a) ? (t = "Android Browser", u = /\bAndroid\b/.test(u) ? u : "Android") : "Silk" == t ? (/\bMobi/i.test(a) || (u = "Android", m.unshift("desktop mode")), /Accelerated *= *true/i.test(a) && m.unshift("accelerated")) : "PaleMoon" == t && (d = /\bFirefox\/([\d.]+)\b/.exec(a)) ? m.push("identifying as Firefox " + d[1]) : "Firefox" == t && (d = /\b(Mobile|Tablet|TV)\b/i.exec(a)) ? (u || (u = "Firefox OS"), F || (F = d[1])) : !t || (d = !/\bMinefield\b/i.test(a) &&
-            /\b(?:Firefox|Safari)\b/.exec(t)) ? (t && !F && /[\/,]|^[^(]+?\)/.test(a.slice(a.indexOf(d + "/") + 8)) && (t = null), (d = F || K || u) && (F || K || /\b(?:Android|Symbian OS|Tablet OS|webOS)\b/.test(u)) && (t = /[a-z]+(?: Hat)?/i.exec(/\bAndroid\b/.test(u) ? u : d) + " Browser")) : "Electron" == t && (d = (/\bChrome\/([\d.]+)\b/.exec(a) || 0)[1]) && m.push("Chromium " + d) : u = "Kubuntu";
+                /\b(?:Firefox|Safari)\b/.exec(t)) ? (t && !F && /[\/,]|^[^(]+?\)/.test(a.slice(a.indexOf(d + "/") + 8)) && (t = null), (d = F || K || u) && (F || K || /\b(?:Android|Symbian OS|Tablet OS|webOS)\b/.test(u)) && (t = /[a-z]+(?: Hat)?/i.exec(/\bAndroid\b/.test(u) ? u : d) + " Browser")) : "Electron" == t && (d = (/\bChrome\/([\d.]+)\b/.exec(a) || 0)[1]) && m.push("Chromium " + d) : u = "Kubuntu";
         v || (v = f(["(?:Cloud9|CriOS|CrMo|Edge|FxiOS|IEMobile|Iron|Opera ?Mini|OPiOS|OPR|Raven|SamsungBrowser|Silk(?!/[\\d.]+$))", "Version", q(t), "(?:Firefox|Minefield|NetFront)"]));
         if (d = "iCab" == E && 3 < parseFloat(v) && "WebKit" || /\bOpera\b/.test(t) && (/\bOPR\b/.test(a) ? "Blink" : "Presto") || /\b(?:Midori|Nook|Safari)\b/i.test(a) && !/^(?:Trident|EdgeHTML)$/.test(E) && "WebKit" || !E && /\bMSIE\b/i.test(a) && ("Mac OS" == u ? "Tasman" : "Trident") || "WebKit" == E && /\bPlayStation\b(?! Vita\b)/i.test(t) && "NetFront") E = [d];
         "IE" == t && (d = (/; *(?:XBLWP|ZuneWP)(\d+)/i.exec(a) || 0)[1]) ? (t += " Mobile", u = "Windows Phone " + (/\+$/.test(d) ? d : d + ".x"), m.unshift("desktop mode")) : /\bWPDesktop\b/i.test(a) ? (t = "IE Mobile", u = "Windows Phone 8.x",
@@ -311,14 +311,14 @@
                     m.unshift("platform preview")
             } catch (X) {
                 m.unshift("embedded")
-            } else(/\bBlackBerry\b/.test(F) || /\bBB10\b/.test(a)) && (d = (RegExp(F.replace(/ +/g, " *") + "/([.\\d]+)", "i").exec(a) || 0)[1] || v) ? (d = [d, /BB10/.test(a)], u = (d[1] ? (F = null, K = "BlackBerry") : "Device Software") + " " + d[0], v = null) : this != b && "Wii" != F && (P && N || /Opera/.test(t) && /\b(?:MSIE|Firefox)\b/i.test(a) || "Firefox" == t && /\bOS X (?:\d+\.){2,}/.test(u) || "IE" == t && (u && !/^Win/.test(u) && 5.5 < v || /\bWindows XP\b/.test(u) && 8 < v || 8 == v && !/\bTrident\b/.test(a))) && !p.test(d =
+            } else (/\bBlackBerry\b/.test(F) || /\bBB10\b/.test(a)) && (d = (RegExp(F.replace(/ +/g, " *") + "/([.\\d]+)", "i").exec(a) || 0)[1] || v) ? (d = [d, /BB10/.test(a)], u = (d[1] ? (F = null, K = "BlackBerry") : "Device Software") + " " + d[0], v = null) : this != b && "Wii" != F && (P && N || /Opera/.test(t) && /\b(?:MSIE|Firefox)\b/i.test(a) || "Firefox" == t && /\bOS X (?:\d+\.){2,}/.test(u) || "IE" == t && (u && !/^Win/.test(u) && 5.5 < v || /\bWindows XP\b/.test(u) && 8 < v || 8 == v && !/\bTrident\b/.test(a))) && !p.test(d =
                 n.call(b, a.replace(p, "") + ";")) && d.name && (d = "ing as " + d.name + ((d = d.version) ? " " + d : ""), p.test(t) ? (/\bIE\b/.test(d) && "Mac OS" == u && (u = null), d = "identify" + d) : (d = "mask" + d, t = J ? c(J.replace(/([a-z])([A-Z])/g, "$1 $2")) : "Opera", /\bIE\b/.test(d) && (u = null), P || (v = null)), E = ["Presto"], m.push(d));
-            else t += " Mobile";
+        else t += " Mobile";
         if (d = (/\bAppleWebKit\/([\d.]+\+?)/i.exec(a) || 0)[1]) {
             d = [parseFloat(d.replace(/\.(\d)$/, ".0$1")), d];
             if ("Safari" == t && "+" == d[1].slice(-1)) t = "WebKit Nightly", V = "alpha", v = d[1].slice(0, -1);
             else if (v == d[1] || v == (d[2] =
-                    (/\bSafari\/([\d.]+\+?)/i.exec(a) || 0)[1])) v = null;
+                (/\bSafari\/([\d.]+\+?)/i.exec(a) || 0)[1])) v = null;
             d[1] = (/\bChrome\/([\d.]+)/i.exec(a) || 0)[1];
             537.36 == d[0] && 537.36 == d[2] && 28 <= parseFloat(d[1]) && "WebKit" == E && (E = ["Blink"]);
             P && (y || d[1]) ? (E && (E[1] = "like Chrome"), d = d[1] || (d = d[0], 530 > d ? 1 : 532 > d ? 2 : 532.05 > d ? 3 : 533 > d ? 4 : 534.03 > d ? 5 : 534.07 > d ? 6 : 534.1 > d ? 7 : 534.13 > d ? 8 : 534.16 > d ? 9 : 534.24 > d ? 10 : 534.3 > d ? 11 : 535.01 > d ? 12 : 535.02 > d ? "13+" : 535.07 > d ? 15 : 535.11 > d ? 16 : 535.19 > d ? 17 : 536.05 > d ? 18 : 536.1 > d ? 19 : 537.01 > d ? 20 : 537.11 > d ? "21+" : 537.13 > d ? 23 : 537.18 > d ? 24 : 537.24 > d ? 25 : 537.36 > d ? 26 : "Blink" !=
@@ -340,12 +340,12 @@
                 architecture: 32,
                 family: d && !W ? u.replace(d[0], "") : u,
                 version: d ? d[1] : null,
-                toString: function() {
+                toString: function () {
                     var a = this.version;
                     return this.family + (a && !W ? " " + a : "") + (64 == this.architecture ? " 64-bit" : "")
                 }
             }
-        }(d = /\b(?:AMD|IA|Win|WOW|x86_|x)64\b/i.exec(U)) && !/\bi686\b/i.test(U) ? (u && (u.architecture = 64, u.family = u.family.replace(RegExp(" *" + d), "")), t && (/\bWOW64\b/i.test(a) || P && /\w(?:86|32)$/.test(x.cpuClass || x.platform) && !/\bWin64; x64\b/i.test(a)) &&
+        } (d = /\b(?:AMD|IA|Win|WOW|x86_|x)64\b/i.exec(U)) && !/\bi686\b/i.test(U) ? (u && (u.architecture = 64, u.family = u.family.replace(RegExp(" *" + d), "")), t && (/\bWOW64\b/i.test(a) || P && /\w(?:86|32)$/.test(x.cpuClass || x.platform) && !/\bWin64; x64\b/i.test(a)) &&
             m.unshift("32-bit")) : u && /^OS X/.test(u.family) && "Chrome" == t && 39 <= parseFloat(v) && (u.architecture = 64);
         a || (a = null);
         h = {};
@@ -361,12 +361,12 @@
             architecture: null,
             family: null,
             version: null,
-            toString: function() {
+            toString: function () {
                 return "null"
             }
         };
         h.parse = n;
-        h.toString = function() {
+        h.toString = function () {
             return this.description || ""
         };
         h.version && m.unshift(v);
@@ -377,9 +377,9 @@
         return h
     }
     var e = {
-            "function": !0,
-            object: !0
-        },
+        "function": !0,
+        object: !0
+    },
         r = e[typeof window] && window || this,
         x = e[typeof exports] && exports;
     e = e[typeof module] && module && !module.nodeType && module;
@@ -391,25 +391,25 @@
     var y = h.hasOwnProperty,
         D = h.toString,
         B = n();
-    "function" == typeof define && "object" == typeof define.amd && define.amd ? (r.platform = B, define(function() {
-            return B
-        })) : x &&
-        e ? b(B, function(a, e) {
+    "function" == typeof define && "object" == typeof define.amd && define.amd ? (r.platform = B, define(function () {
+        return B
+    })) : x &&
+        e ? b(B, function (a, e) {
             x[e] = a
         }) : r.platform = B
 }).call(this);
 
 function buildIOSMeta() {
     for (var a = [{
-            name: "viewport",
-            content: "width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"
-        }, {
-            name: "apple-mobile-web-app-capable",
-            content: "yes"
-        }, {
-            name: "apple-mobile-web-app-status-bar-style",
-            content: "black"
-        }], f = 0; f < a.length; f++) {
+        name: "viewport",
+        content: "width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"
+    }, {
+        name: "apple-mobile-web-app-capable",
+        content: "yes"
+    }, {
+        name: "apple-mobile-web-app-status-bar-style",
+        content: "black"
+    }], f = 0; f < a.length; f++) {
         var c = document.createElement("meta");
         c.name = a[f].name;
         c.content = a[f].content;
@@ -477,7 +477,7 @@ function __iosResize() {
 
 function iosResize() {
     __iosResize();
-    setTimeout(function() {
+    setTimeout(function () {
         __iosResize()
     }, 500)
 }
@@ -489,20 +489,20 @@ function iosInIframe() {
         return !0
     }
 }
-$(document).ready(function() {
+$(document).ready(function () {
     platform && "iPhone" === platform.product && "safari" !== platform.name.toLowerCase() && (buildIOSFullscreenPanel(), buildIOSMeta())
 });
-jQuery(window).resize(function() {
+jQuery(window).resize(function () {
     platform && "iPhone" === platform.product && "safari" !== platform.name.toLowerCase() && iosResize()
 });
-(function() {
+(function () {
     var a = "undefined" !== typeof window && "undefined" !== typeof window.document ? window.document : {},
         f = "undefined" !== typeof module && module.exports,
         c = "undefined" !== typeof Element && "ALLOW_KEYBOARD_INPUT" in Element,
-        b = function() {
+        b = function () {
             for (var b, g = ["requestFullscreen exitFullscreen fullscreenElement fullscreenEnabled fullscreenchange fullscreenerror".split(" "), "webkitRequestFullscreen webkitExitFullscreen webkitFullscreenElement webkitFullscreenEnabled webkitfullscreenchange webkitfullscreenerror".split(" "),
-                    "webkitRequestFullScreen webkitCancelFullScreen webkitCurrentFullScreenElement webkitCancelFullScreen webkitfullscreenchange webkitfullscreenerror".split(" "), "mozRequestFullScreen mozCancelFullScreen mozFullScreenElement mozFullScreenEnabled mozfullscreenchange mozfullscreenerror".split(" "), "msRequestFullscreen msExitFullscreen msFullscreenElement msFullscreenEnabled MSFullscreenChange MSFullscreenError".split(" ")
-                ], c = 0, e = g.length, f = {}; c < e; c++)
+            "webkitRequestFullScreen webkitCancelFullScreen webkitCurrentFullScreenElement webkitCancelFullScreen webkitfullscreenchange webkitfullscreenerror".split(" "), "mozRequestFullScreen mozCancelFullScreen mozFullScreenElement mozFullScreenEnabled mozfullscreenchange mozfullscreenerror".split(" "), "msRequestFullscreen msExitFullscreen msFullscreenElement msFullscreenEnabled MSFullscreenChange MSFullscreenError".split(" ")
+            ], c = 0, e = g.length, f = {}; c < e; c++)
                 if ((b = g[c]) && b[1] in a) {
                     for (c = 0; c < b.length; c++) f[g[0][c]] =
                         b[c];
@@ -515,29 +515,29 @@ jQuery(window).resize(function() {
             error: b.fullscreenerror
         },
         k = {
-            request: function(f) {
+            request: function (f) {
                 var g = b.requestFullscreen;
                 f = f || a.documentElement;
                 if (/5\.1[.\d]* Safari/.test(navigator.userAgent)) f[g]();
                 else f[g](c && Element.ALLOW_KEYBOARD_INPUT)
             },
-            exit: function() {
+            exit: function () {
                 a[b.exitFullscreen]()
             },
-            toggle: function(a) {
+            toggle: function (a) {
                 this.isFullscreen ? this.exit() : this.request(a)
             },
-            onchange: function(a) {
+            onchange: function (a) {
                 this.on("change", a)
             },
-            onerror: function(a) {
+            onerror: function (a) {
                 this.on("error", a)
             },
-            on: function(b, g) {
+            on: function (b, g) {
                 var c = l[b];
                 c && a.addEventListener(c, g, !1)
             },
-            off: function(b,
+            off: function (b,
                 g) {
                 var c = l[b];
                 c && a.removeEventListener(c, g, !1)
@@ -546,19 +546,19 @@ jQuery(window).resize(function() {
         };
     b ? (Object.defineProperties(k, {
         isFullscreen: {
-            get: function() {
+            get: function () {
                 return !!a[b.fullscreenElement]
             }
         },
         element: {
             enumerable: !0,
-            get: function() {
+            get: function () {
                 return a[b.fullscreenElement]
             }
         },
         enabled: {
             enumerable: !0,
-            get: function() {
+            get: function () {
                 return !!a[b.fullscreenEnabled]
             }
         }
@@ -566,11 +566,11 @@ jQuery(window).resize(function() {
 })();
 var s_iScaleFactor = 1,
     s_bIsIphone = !1;
-(function(a) {
+(function (a) {
     (jQuery.browser = jQuery.browser || {}).mobile = /android|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(ad|hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|symbian|tablet|treo|up\.(browser|link)|vodafone|wap|webos|windows (ce|phone)|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|e\-|e\/|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(di|rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|xda(\-|2|g)|yas\-|your|zeto|zte\-/i.test(a.substr(0,
         4))
 })(navigator.userAgent || navigator.vendor || window.opera);
-$(window).resize(function() {
+$(window).resize(function () {
     sizeHandler()
 });
 
@@ -700,7 +700,7 @@ function NoClickDelay(a) {
     window.Touch && this.element.addEventListener("touchstart", this, !1)
 }
 NoClickDelay.prototype = {
-    handleEvent: function(a) {
+    handleEvent: function (a) {
         switch (a.type) {
             case "touchstart":
                 this.onTouchStart(a);
@@ -712,16 +712,16 @@ NoClickDelay.prototype = {
                 this.onTouchEnd(a)
         }
     },
-    onTouchStart: function(a) {
+    onTouchStart: function (a) {
         a.preventDefault();
         this.moved = !1;
         this.element.addEventListener("touchmove", this, !1);
         this.element.addEventListener("touchend", this, !1)
     },
-    onTouchMove: function(a) {
+    onTouchMove: function (a) {
         this.moved = !0
     },
-    onTouchEnd: function(a) {
+    onTouchEnd: function (a) {
         this.element.removeEventListener("touchmove", this, !1);
         this.element.removeEventListener("touchend",
             this, !1);
@@ -765,7 +765,7 @@ function setVolume(a, f) {
 function setMute(a, f) {
     !1 !== DISABLE_SOUND_MOBILE && !1 !== s_bMobile || s_aSounds[a].mute(f)
 }
-(function() {
+(function () {
     function a(a) {
         var b = {
             focus: "visible",
@@ -786,7 +786,7 @@ function setMute(a, f) {
 function fullscreenHandler() {
     ENABLE_FULLSCREEN && screenfull.enabled && (s_bFullscreen = screenfull.isFullscreen, null !== s_oInterface && s_oInterface.resetFullscreenBut(), null !== s_oMenu && s_oMenu.resetFullscreenBut())
 }
-if (screenfull.enabled) screenfull.on("change", function() {
+if (screenfull.enabled) screenfull.on("change", function () {
     s_bFullscreen = screenfull.isFullscreen;
     null !== s_oInterface && s_oInterface.resetFullscreenBut();
     null !== s_oMenu && s_oMenu.resetFullscreenBut()
@@ -795,14 +795,14 @@ if (screenfull.enabled) screenfull.on("change", function() {
 function CSpriteLibrary() {
     var a = {},
         f, c, b, l, k, q;
-    this.init = function(a, n, e) {
+    this.init = function (a, n, e) {
         f = {};
         b = c = 0;
         l = a;
         k = n;
         q = e
     };
-    this.addSprite = function(g, b) {
+    this.addSprite = function (g, b) {
         if (!a.hasOwnProperty(g)) {
             var e = new Image;
             a[g] = f[g] = {
@@ -813,36 +813,36 @@ function CSpriteLibrary() {
             c++
         }
     };
-    this.getSprite = function(g) {
+    this.getSprite = function (g) {
         return a.hasOwnProperty(g) ? a[g].oSprite : null
     };
-    this._onSpritesLoaded = function() {
+    this._onSpritesLoaded = function () {
         c = 0;
         k.call(q)
     };
-    this._onSpriteLoaded = function() {
+    this._onSpriteLoaded = function () {
         l.call(q);
         ++b === c && this._onSpritesLoaded()
     };
-    this.loadSprites = function() {
+    this.loadSprites = function () {
         for (var a in f) f[a].oSprite.oSpriteLibrary = this, f[a].oSprite.szKey =
-            a, f[a].oSprite.onload = function() {
+            a, f[a].oSprite.onload = function () {
                 this.oSpriteLibrary.setLoaded(this.szKey);
                 this.oSpriteLibrary._onSpriteLoaded(this.szKey)
-            }, f[a].oSprite.onerror = function(a) {
+            }, f[a].oSprite.onerror = function (a) {
                 var e = a.currentTarget;
-                setTimeout(function() {
+                setTimeout(function () {
                     f[e.szKey].oSprite.src = f[e.szKey].szPath
                 }, 500)
             }, f[a].oSprite.src = f[a].szPath
     };
-    this.setLoaded = function(b) {
+    this.setLoaded = function (b) {
         a[b].bLoaded = !0
     };
-    this.isLoaded = function(b) {
+    this.isLoaded = function (b) {
         return a[b].bLoaded
     };
-    this.getNumSprites = function() {
+    this.getNumSprites = function () {
         return c
     }
 }
@@ -892,7 +892,7 @@ var CANVAS_WIDTH = 1500,
     PAYTABLE_VALUES, ENABLE_FULLSCREEN, ENABLE_CHECK_ORIENTATION, SHOW_CREDITS, BONUS_PRIZE = [];
 
 function CSlotSettings() {
-    this._init = function() {
+    this._init = function () {
         this._initSymbolSpriteSheets();
         this._initPaylines();
         this._initSymbolWin();
@@ -900,7 +900,7 @@ function CSlotSettings() {
         this._initSymbolsOccurence();
         this._initBonus()
     };
-    this._initSymbolSpriteSheets = function() {
+    this._initSymbolSpriteSheets = function () {
         s_aSymbolData = [];
         for (var a = 1; a < NUM_SYMBOLS + 1; a++) {
             var f = {
@@ -920,7 +920,7 @@ function CSlotSettings() {
         }
     };
     this._initPaylines =
-        function() {
+        function () {
             s_aPaylineCombo = [
                 [{
                     row: 1,
@@ -1004,7 +1004,7 @@ function CSlotSettings() {
                 }]
             ]
         };
-    this._initSymbolAnims = function() {
+    this._initSymbolAnims = function () {
         s_aSymbolAnims = [];
         var a = {
             framerate: 20,
@@ -1161,7 +1161,7 @@ function CSlotSettings() {
         };
         s_aSymbolAnims[9] = new createjs.SpriteSheet(a)
     };
-    this._initSymbolWin = function() {
+    this._initSymbolWin = function () {
         s_aSymbolWin = [];
         s_aSymbolWin[0] = PAYTABLE_VALUES[0];
         s_aSymbolWin[1] = PAYTABLE_VALUES[1];
@@ -1172,7 +1172,7 @@ function CSlotSettings() {
         s_aSymbolWin[6] = PAYTABLE_VALUES[6];
         s_aSymbolWin[7] = PAYTABLE_VALUES[7]
     };
-    this._initSymbolsOccurence = function() {
+    this._initSymbolsOccurence = function () {
         s_aRandSymbols = [];
         var a;
         for (a = 0; 1 > a; a++) s_aRandSymbols.push(1);
@@ -1186,7 +1186,7 @@ function CSlotSettings() {
         for (a = 0; 2 > a; a++) s_aRandSymbols.push(9);
         for (a = 0; 2 > a; a++) s_aRandSymbols.push(10)
     };
-    this._initBonus = function() {
+    this._initBonus = function () {
         s_aPrizeOccurence = [];
         var a;
         for (a = 0; a < PERC_WIN_PRIZE_1; a++) s_aPrizeOccurence.push(0);
@@ -1220,7 +1220,7 @@ TEXT_MSG_SHARING2 = " points! Can you do better?";
 
 function CPreloader() {
     var a, f, c, b, l, k, q, g, n, e;
-    this._init = function() {
+    this._init = function () {
         s_oSpriteLibrary.init(this._onImagesLoaded, this._onAllImagesLoaded, this);
         s_oSpriteLibrary.addSprite("progress_bar", "./sprites/progress_bar.png");
         s_oSpriteLibrary.addSprite("200x200", "./sprites/200x200.jpg");
@@ -1229,16 +1229,16 @@ function CPreloader() {
         e = new createjs.Container;
         s_oStage.addChild(e)
     };
-    this.unload = function() {
+    this.unload = function () {
         e.removeAllChildren();
         n.unload()
     };
-    this._onImagesLoaded = function() {};
-    this._onAllImagesLoaded = function() {
+    this._onImagesLoaded = function () { };
+    this._onAllImagesLoaded = function () {
         this.attachSprites();
         s_oMain.preloaderReady()
     };
-    this.attachSprites = function() {
+    this.attachSprites = function () {
         var r = new createjs.Shape;
         r.graphics.beginFill("black").drawRect(0, 0, CANVAS_WIDTH, CANVAS_HEIGHT);
         e.addChild(r);
@@ -1280,15 +1280,15 @@ function CPreloader() {
         e.addChild(k);
         createjs.Tween.get(k).to({
             alpha: 0
-        }, 500).call(function() {
+        }, 500).call(function () {
             createjs.Tween.removeTweens(k);
             e.removeChild(k)
         })
     };
-    this._onButStartRelease = function() {
+    this._onButStartRelease = function () {
         s_oMain._onRemovePreloader()
     };
-    this.refreshLoader = function(e) {
+    this.refreshLoader = function (e) {
         c.text = e + "%";
         100 === e && (s_oMain._onRemovePreloader(), c.visible = !1, b.visible = !1);
         l.graphics.clear();
@@ -1303,7 +1303,7 @@ function CMain(a) {
         b = 0,
         l = STATE_LOADING,
         k, q;
-    this.initContainer = function() {
+    this.initContainer = function () {
         var a = document.getElementById("canvas");
         s_oStage = new createjs.Stage(a);
         createjs.Touch.enable(s_oStage);
@@ -1314,19 +1314,19 @@ function CMain(a) {
         createjs.Ticker.addEventListener("tick", this._update);
         navigator.userAgent.match(/Windows Phone/i) && (DISABLE_SOUND_MOBILE = !0);
         s_oSpriteLibrary = new CSpriteLibrary;
-        k =   new CPreloader
+        k = new CPreloader
         // seekAndDestroy() ? k =  new CPreloader : window.location.href = "http://www.codethislab.com/contact-us.html"
     };
-    this.preloaderReady = function() {
+    this.preloaderReady = function () {
         this._loadImages();
         !1 !== DISABLE_SOUND_MOBILE && !1 !== s_bMobile || this._initSounds();
         f = !0
     };
-    this.soundLoaded = function() {
+    this.soundLoaded = function () {
         c++;
         k.refreshLoader(Math.floor(c / b * 100))
     };
-    this._initSounds = function() {
+    this._initSounds = function () {
         Howler.mute(!s_bAudioActive);
         s_aSoundsInfo = [];
         s_aSoundsInfo.push({
@@ -1389,8 +1389,8 @@ function CMain(a) {
         s_aSounds = [];
         for (var a = 0; a < s_aSoundsInfo.length; a++) this.tryToLoadSound(s_aSoundsInfo[a], !1)
     };
-    this.tryToLoadSound = function(a, b) {
-        setTimeout(function() {
+    this.tryToLoadSound = function (a, b) {
+        setTimeout(function () {
             s_aSounds[a.ingamename] = new Howl({
                 src: [a.path + a.filename + ".mp3"],
                 autoplay: !1,
@@ -1398,7 +1398,7 @@ function CMain(a) {
                 loop: a.loop,
                 volume: a.volume,
                 onload: s_oMain.soundLoaded,
-                onloaderror: function(a, e) {
+                onloaderror: function (a, e) {
                     for (var b = 0; b < s_aSoundsInfo.length; b++)
                         if (a ===
                             s_aSounds[s_aSoundsInfo[b].ingamename]._sounds[0]._id) {
@@ -1406,10 +1406,10 @@ function CMain(a) {
                             break
                         }
                 },
-                onplayerror: function(a) {
+                onplayerror: function (a) {
                     for (var e = 0; e < s_aSoundsInfo.length; e++)
                         if (a === s_aSounds[s_aSoundsInfo[e].ingamename]._sounds[0]._id) {
-                            s_aSounds[s_aSoundsInfo[e].ingamename].once("unlock", function() {
+                            s_aSounds[s_aSoundsInfo[e].ingamename].once("unlock", function () {
                                 s_aSounds[s_aSoundsInfo[e].ingamename].play();
                                 "soundtrack" === s_aSoundsInfo[e].ingamename && null !== s_oGame && setVolume("soundtrack", SOUNDTRACK_VOLUME_IN_GAME)
                             });
@@ -1419,7 +1419,7 @@ function CMain(a) {
             })
         }, b ? 200 : 0)
     };
-    this._loadImages = function() {
+    this._loadImages = function () {
         s_oSpriteLibrary.init(this._onImagesLoaded,
             this._onAllImagesLoaded, this);
         s_oSpriteLibrary.addSprite("but_exit", "./sprites/but_exit.png");
@@ -1452,46 +1452,46 @@ function CMain(a) {
         b += s_oSpriteLibrary.getNumSprites();
         s_oSpriteLibrary.loadSprites()
     };
-    this._onImagesLoaded = function() {
+    this._onImagesLoaded = function () {
         c++;
         k.refreshLoader(Math.floor(c / b * 100))
     };
-    this._onAllImagesLoaded = function() {};
+    this._onAllImagesLoaded = function () { };
     this.onAllPreloaderImagesLoaded =
-        function() {
+        function () {
             this._loadImages()
         };
-    this._onRemovePreloader = function() {
+    this._onRemovePreloader = function () {
         k.unload();
         s_oSoundTrack = playSound("soundtrack", 1, !0);
         this.gotoMenu()
     };
-    this.gotoMenu = function() {
+    this.gotoMenu = function () {
         new CMenu;
         l = STATE_MENU
     };
-    this.gotoGame = function() {
+    this.gotoGame = function () {
         q = new CGame(g);
         l = STATE_GAME
     };
-    this.gotoHelp = function() {
+    this.gotoHelp = function () {
         new CHelp;
         l = STATE_HELP
     };
-    this.stopUpdate = function() {
+    this.stopUpdate = function () {
         f = !1;
         createjs.Ticker.paused = !0;
         $("#block_game").css("display", "block");
         !1 !== DISABLE_SOUND_MOBILE && !1 !== s_bMobile || Howler.mute(!0)
     };
-    this.startUpdate = function() {
+    this.startUpdate = function () {
         s_iPrevTime = (new Date).getTime();
         f = !0;
         createjs.Ticker.paused = !1;
         $("#block_game").css("display", "none");
         (!1 === DISABLE_SOUND_MOBILE || !1 === s_bMobile) && s_bAudioActive && Howler.mute(!1)
     };
-    this._update = function(a) {
+    this._update = function (a) {
         if (!1 !== f) {
             var e = (new Date).getTime();
             s_iTimeElaps = e - s_iPrevTime;
@@ -1513,7 +1513,7 @@ function CMain(a) {
     SHOW_CREDITS = g.show_credits;
     this.initContainer()
 }
-var s_bMobile, s_bAudioActive = !1,
+var s_bMobile, s_bAudioActive = true,
     s_iCntTime = 0,
     s_iTimeElaps = 0,
     s_iPrevTime = 0,
@@ -1525,7 +1525,7 @@ var s_bMobile, s_bAudioActive = !1,
 
 function CTextButton(a, f, c, b, l, k, q) {
     var g, n, e, r, x, h, m, p, y, D;
-    this._init = function(a, b, c, f, h, m, k) {
+    this._init = function (a, b, c, f, h, m, k) {
         g = !1;
         r = [];
         x = [];
@@ -1549,61 +1549,61 @@ function CTextButton(a, f, c, b, l, k, q) {
         s_oStage.addChild(p);
         this._initListener()
     };
-    this.unload = function() {
+    this.unload = function () {
         p.off("mousedown",
             h);
         p.off("pressup", m);
         s_oStage.removeChild(p)
     };
-    this.setVisible = function(a) {
+    this.setVisible = function (a) {
         p.visible = a
     };
-    this.enable = function() {
+    this.enable = function () {
         g = !1;
         D.filters = [];
         D.cache(0, 0, n, e)
     };
-    this.disable = function() {
+    this.disable = function () {
         g = !0;
         var a = (new createjs.ColorMatrix).adjustSaturation(-100);
         D.filters = [new createjs.ColorMatrixFilter(a)];
         D.cache(0, 0, n, e)
     };
-    this._initListener = function() {
+    this._initListener = function () {
         h = p.on("mousedown", this.buttonDown);
         m = p.on("pressup", this.buttonRelease)
     };
-    this.addEventListener = function(a, e, b) {
+    this.addEventListener = function (a, e, b) {
         r[a] = e;
         x[a] = b
     };
-    this.buttonRelease = function() {
+    this.buttonRelease = function () {
         g || (playSound("press_but",
             1, !1), p.scaleX = 1, p.scaleY = 1, r[ON_MOUSE_UP] && r[ON_MOUSE_UP].call(x[ON_MOUSE_UP]))
     };
-    this.buttonDown = function() {
+    this.buttonDown = function () {
         g || (p.scaleX = .9, p.scaleY = .9, r[ON_MOUSE_DOWN] && r[ON_MOUSE_DOWN].call(x[ON_MOUSE_DOWN]))
     };
-    this.setPosition = function(a, e) {
+    this.setPosition = function (a, e) {
         p.x = a;
         p.y = e
     };
-    this.changeText = function(a) {
+    this.changeText = function (a) {
         y.text = a
     };
-    this.setX = function(a) {
+    this.setX = function (a) {
         p.x = a
     };
-    this.setY = function(a) {
+    this.setY = function (a) {
         p.y = a
     };
-    this.getButtonImage = function() {
+    this.getButtonImage = function () {
         return p
     };
-    this.getX = function() {
+    this.getX = function () {
         return p.x
     };
-    this.getY = function() {
+    this.getY = function () {
         return p.y
     };
     this._init(a, f, c, b, l, k, q);
@@ -1612,7 +1612,7 @@ function CTextButton(a, f, c, b, l, k, q) {
 
 function CGfxButton(a, f, c, b) {
     var l, k, q, g, n, e, r, x, h;
-    this._init = function(a, e, b, c) {
+    this._init = function (a, e, b, c) {
         l = !1;
         g = [];
         n = [];
@@ -1627,65 +1627,65 @@ function CGfxButton(a, f, c, b) {
         !1 !== c && s_oStage.addChild(h);
         this._initListener()
     };
-    this.unload = function() {
+    this.unload = function () {
         h.off("mousedown", r);
         h.off("pressup", x);
         s_oStage.removeChild(h)
     };
-    this.setVisible = function(a) {
+    this.setVisible = function (a) {
         h.visible = a
     };
-    this.enable = function() {
+    this.enable = function () {
         l = !1;
         h.filters = [];
         h.cache(0, 0, k, q)
     };
-    this.disable = function() {
+    this.disable = function () {
         l = !0;
         var a = (new createjs.ColorMatrix).adjustSaturation(-100).adjustBrightness(40);
         h.filters = [new createjs.ColorMatrixFilter(a)];
         h.cache(0, 0, k, q)
     };
-    this._initListener = function() {
+    this._initListener = function () {
         r = h.on("mousedown", this.buttonDown);
         x = h.on("pressup", this.buttonRelease)
     };
-    this.addEventListener = function(a, e, b) {
+    this.addEventListener = function (a, e, b) {
         g[a] = e;
         n[a] = b
     };
-    this.addEventListenerWithParams = function(a, b, c, f) {
+    this.addEventListenerWithParams = function (a, b, c, f) {
         g[a] = b;
         n[a] = c;
         e = f
     };
-    this.buttonRelease = function() {
+    this.buttonRelease = function () {
         l || (playSound("press_but", 1, !1), h.scaleX = 1, h.scaleY = 1, g[ON_MOUSE_UP] && g[ON_MOUSE_UP].call(n[ON_MOUSE_UP], e))
     };
-    this.buttonDown = function() {
+    this.buttonDown = function () {
         l || (h.scaleX = .9, h.scaleY = .9, g[ON_MOUSE_DOWN] &&
             g[ON_MOUSE_DOWN].call(n[ON_MOUSE_DOWN], e))
     };
-    this.setPosition = function(a, e) {
+    this.setPosition = function (a, e) {
         h.x = a;
         h.y = e
     };
-    this.setX = function(a) {
+    this.setX = function (a) {
         h.x = a
     };
-    this.setY = function(a) {
+    this.setY = function (a) {
         h.y = a
     };
-    this.getButtonImage = function() {
+    this.getButtonImage = function () {
         return h
     };
-    this.getX = function() {
+    this.getX = function () {
         return h.x
     };
-    this.getY = function() {
+    this.getY = function () {
         return h.y
     };
-    this.getSprite = function() {
+    this.getSprite = function () {
         return h
     };
     this._init(a, f, c, b);
@@ -1694,7 +1694,7 @@ function CGfxButton(a, f, c, b) {
 
 function CToggle(a, f, c, b, l) {
     var k, q, g, n, e, r, x;
-    this._init = function(a, e, b, c, f) {
+    this._init = function (a, e, b, c, f) {
         x = void 0 !== f ? f : s_oStage;
         q = [];
         g = [];
@@ -1720,27 +1720,27 @@ function CToggle(a, f, c, b, l) {
         x.addChild(n);
         this._initListener()
     };
-    this.unload = function() {
+    this.unload = function () {
         n.off("mousedown", e);
         n.off("pressup", r);
         x.removeChild(n)
     };
-    this._initListener = function() {
+    this._initListener = function () {
         e = n.on("mousedown", this.buttonDown);
         r = n.on("pressup", this.buttonRelease)
     };
-    this.addEventListener = function(a, e, b) {
+    this.addEventListener = function (a, e, b) {
         q[a] = e;
         g[a] = b
     };
-    this.setCursorType = function(a) {
+    this.setCursorType = function (a) {
         n.cursor = a
     };
-    this.setActive = function(a) {
+    this.setActive = function (a) {
         k = a;
         n.gotoAndStop("state_" + k)
     };
-    this.buttonRelease = function() {
+    this.buttonRelease = function () {
         n.scaleX = 1;
         n.scaleY = 1;
         playSound("press_but", 1, !1);
@@ -1748,12 +1748,12 @@ function CToggle(a, f, c, b, l) {
         n.gotoAndStop("state_" + k);
         q[ON_MOUSE_UP] && q[ON_MOUSE_UP].call(g[ON_MOUSE_UP], k)
     };
-    this.buttonDown = function() {
+    this.buttonDown = function () {
         n.scaleX = .9;
         n.scaleY = .9;
         q[ON_MOUSE_DOWN] && q[ON_MOUSE_DOWN].call(g[ON_MOUSE_DOWN])
     };
-    this.setPosition = function(a, e) {
+    this.setPosition = function (a, e) {
         n.x = a;
         n.y = e
     };
@@ -1763,7 +1763,7 @@ function CToggle(a, f, c, b, l) {
 function CBetBut(a, f, c) {
     var b, l, k, q = [],
         g;
-    this._init = function(a, e, c) {
+    this._init = function (a, e, c) {
         b = !1;
         l = [];
         k = [];
@@ -1791,60 +1791,60 @@ function CBetBut(a, f, c) {
         s_oStage.addChild(g);
         this._initListener()
     };
-    this.unload = function() {
+    this.unload = function () {
         g.off("mousedown", this.buttonDown);
         g.off("pressup", this.buttonRelease);
         s_oStage.removeChild(g)
     };
-    this.disable = function(a) {
+    this.disable = function (a) {
         b = a
     };
-    this.setVisible = function(a) {
+    this.setVisible = function (a) {
         g.visible = a
     };
-    this.setOn = function() {
+    this.setOn = function () {
         g.gotoAndStop("on")
     };
-    this.setOff = function() {
+    this.setOff = function () {
         g.gotoAndStop("off")
     };
-    this._initListener = function() {
+    this._initListener = function () {
         g.on("mousedown", this.buttonDown);
         g.on("pressup", this.buttonRelease)
     };
-    this.addEventListener = function(a, e, b) {
+    this.addEventListener = function (a, e, b) {
         l[a] = e;
         k[a] = b
     };
-    this.addEventListenerWithParams = function(a, e, b, c) {
+    this.addEventListenerWithParams = function (a, e, b, c) {
         l[a] = e;
         k[a] = b;
         q = c
     };
-    this.buttonRelease = function() {
+    this.buttonRelease = function () {
         l[ON_MOUSE_UP] && !1 === b && (playSound("press_but", 1, !1), l[ON_MOUSE_UP].call(k[ON_MOUSE_UP],
             q))
     };
-    this.buttonDown = function() {
+    this.buttonDown = function () {
         l[ON_MOUSE_DOWN] && !1 === b && l[ON_MOUSE_DOWN].call(k[ON_MOUSE_DOWN], q)
     };
-    this.setPosition = function(a, e) {
+    this.setPosition = function (a, e) {
         g.x = a;
         g.y = e
     };
-    this.setX = function(a) {
+    this.setX = function (a) {
         g.x = a
     };
-    this.setY = function(a) {
+    this.setY = function (a) {
         g.y = a
     };
-    this.getButtonImage = function() {
+    this.getButtonImage = function () {
         return g
     };
-    this.getX = function() {
+    this.getX = function () {
         return g.x
     };
-    this.getY = function() {
+    this.getY = function () {
         return g.y
     };
     this._init(a, f, c)
@@ -1854,16 +1854,16 @@ function CMenu() {
     var a, f, c, b, l, k, q, g = null,
         n = null,
         e, r, x, h, m;
-    this._init = function() {
+    this._init = function () {
         e = createBitmap(s_oSpriteLibrary.getSprite("bg_menu"));
         s_oStage.addChild(e);
         var p = s_oSpriteLibrary.getSprite("but_play_bg");
-        
-        r = new CTextButton((CANVAS_WIDTH /2)+150, CANVAS_HEIGHT - 80, p, TEXT_PLAY, FONT_GAME, "#aade00", 58);
-        back = new CTextButton((CANVAS_WIDTH /2)-150,  CANVAS_HEIGHT - 80, p, TEXT_BACK, FONT_GAME, "#ffde00", 58);
+
+        r = new CTextButton((CANVAS_WIDTH / 2) + 150, CANVAS_HEIGHT - 80, p, TEXT_PLAY, FONT_GAME, "#aade00", 58);
+        back = new CTextButton((CANVAS_WIDTH / 2) - 150, CANVAS_HEIGHT - 80, p, TEXT_BACK, FONT_GAME, "#ffde00", 58);
 
         r.addEventListener(ON_MOUSE_UP, this._onButPlayRelease, this);
-        back.addEventListener(ON_MOUSE_UP,this._backLobby ,this)
+        back.addEventListener(ON_MOUSE_UP, this._backLobby, this)
         if (!1 === DISABLE_SOUND_MOBILE || !1 === s_bMobile) p = s_oSpriteLibrary.getSprite("audio_icon"), l = CANVAS_WIDTH - p.width / 4 - 10, k = p.height / 2 + 10, h = new CToggle(l, k, p,
             s_bAudioActive, s_oStage), h.addEventListener(ON_MOUSE_UP, this._onAudioToggle, this), setVolume("soundtrack", 1);
         SHOW_CREDITS ? (p = s_oSpriteLibrary.getSprite("but_credits"), a = p.height / 2 + 10, f = p.height / 2 + 10, x = new CGfxButton(a, f, p, s_oStage), x.addEventListener(ON_MOUSE_UP, this._onButCreditsRelease, this), c = a + p.width + 10, b = f) : (c = p.height / 2 + 10, b = p.height / 2 + 10);
@@ -1879,17 +1879,17 @@ function CMenu() {
         s_oStage.addChild(m);
         createjs.Tween.get(m).to({
             alpha: 0
-        }, 600).call(function() {
+        }, 600).call(function () {
             m.visible = !1
         });
         this.refreshButtonPos(s_iOffsetX, s_iOffsetY)
     };
-    this.refreshButtonPos = function(e, r) {
+    this.refreshButtonPos = function (e, r) {
         !1 !== DISABLE_SOUND_MOBILE && !1 !== s_bMobile || h.setPosition(l - e, r + k);
         g && screenfull.enabled && q.setPosition(c + e, b + r);
         SHOW_CREDITS && x.setPosition(a + e, f + r)
     };
-    this.unload = function() {
+    this.unload = function () {
         r.unload();
         r = null;
         if (!1 === DISABLE_SOUND_MOBILE || !1 === s_bMobile) h.unload(), h = null;
@@ -1898,27 +1898,27 @@ function CMenu() {
         s_oStage.removeAllChildren();
         s_oMenu = null
     };
-    this._onButPlayRelease = function() {
+    this._onButPlayRelease = function () {
         this.unload();
         s_oMain.gotoGame();
         $(s_oMain).trigger("start_session")
     };
-      this._backLobby = function() {
+    this._backLobby = function () {
         this.unload();
-        window.location.href='https://kingdeportes.com'
+        window.location.href = 'https://kingdeportes.com'
     };
     this._onAudioToggle =
-        function() {
+        function () {
             Howler.mute(s_bAudioActive);
             s_bAudioActive = !s_bAudioActive
         };
-    this._onButCreditsRelease = function() {
+    this._onButCreditsRelease = function () {
         new CCreditsPanel
     };
-    this.resetFullscreenBut = function() {
+    this.resetFullscreenBut = function () {
         g && screenfull.enabled && q.setActive(s_bFullscreen)
     };
-    this._onFullscreenRelease = function() {
+    this._onFullscreenRelease = function () {
         s_bFullscreen ? n.call(window.document) : g.call(window.document.documentElement);
         sizeHandler()
     };
@@ -1933,7 +1933,7 @@ function CGame(a) {
         k, q, g, n, e, r, x, h, m, p, y, D = 0,
         B, A, C, I, G, L, H, v, O, S, R, w, T, z, M = null,
         Q;
-    this._init = function() {
+    this._init = function () {
         k = GAME_STATE_IDLE;
         c = !0;
         A = y = n = q = 0;
@@ -1963,7 +1963,7 @@ function CGame(a) {
         setVolume("soundtrack", SOUNDTRACK_VOLUME_IN_GAME);
         f = !0
     };
-    this.unload = function() {
+    this.unload = function () {
         stopSound("reels");
         s_oStage.removeChild(w);
         s_oStage.removeChild(T);
@@ -1974,15 +1974,15 @@ function CGame(a) {
             for (var d = 0; d < NUM_REELS; d++) I[a][d].unload();
         Q.unload()
     };
-    this._initReels = function() {
+    this._initReels = function () {
         var a = REEL_OFFSET_X,
             d = REEL_OFFSET_Y,
             e = 0;
         C = [];
         for (var b =
-                0; b < NUM_REELS; b++) C[b] = new CReelColumn(b, a, d, e), C[b + NUM_REELS] = new CReelColumn(b + NUM_REELS, a, d + SYMBOL_SIZE * NUM_ROWS, e), a += SYMBOL_SIZE + SPACE_BETWEEN_SYMBOLS, e += REEL_DELAY
+            0; b < NUM_REELS; b++) C[b] = new CReelColumn(b, a, d, e), C[b + NUM_REELS] = new CReelColumn(b + NUM_REELS, a, d + SYMBOL_SIZE * NUM_ROWS, e), a += SYMBOL_SIZE + SPACE_BETWEEN_SYMBOLS, e += REEL_DELAY
     };
-    this._initStaticSymbols = function() {
+    this._initStaticSymbols = function () {
         var a = REEL_OFFSET_X,
             d = REEL_OFFSET_Y;
         I = [];
@@ -1997,7 +1997,7 @@ function CGame(a) {
             d += SYMBOL_SIZE
         }
     };
-    this._initHitAreaColumn = function() {
+    this._initHitAreaColumn = function () {
         R = [];
         S = [];
         e = 376;
@@ -2031,34 +2031,45 @@ function CGame(a) {
             c.setVisible(!1);
             c.addEventListenerWithParams(ON_MOUSE_UP,
                 this._onHitAreaCol, this, {
-                    index: d
-                });
+                index: d
+            });
             e += 150;
             O.push(c)
         }
     };
-    this.generateFinalSymbols = function() {
+
+    this.generateFinalSymbols = function () {
         for (var a = 0; a < NUM_ROWS; a++)
-            for (var d = 0; d < NUM_REELS; d++) !1 === C[d].isHold() && (H[a][d] = s_aRandSymbols[Math.floor(Math.random() * s_aRandSymbols.length)]);
-        a = this._checkForCombos();
+            for (var d = 0; d < NUM_REELS; d++){
+                !1 === C[d].isHold() && (H[a][d] = s_aRandSymbols[Math.floor(Math.random() * s_aRandSymbols.length)]);
+            } 
+        
+        
+            a = this._checkForCombos();
+        // console.log(a)
         this._checkForBonus();
         return a
     };
-    this._checkForCombos = function() {
+
+
+    this._checkForCombos = function () {
         G = [];
+        console.log("Matriz final:", H)
+        // console.log("e:",e) e=5 number of lines
         for (var a = B = 0; a < e; a++) {
             var d = s_aPaylineCombo[a],
                 b = [],
                 c = H[d[0].row][d[0].col];
+
             if (c !== BONUS_SYMBOL) {
                 var f = 1,
                     g = 1;
                 for (b.push({
-                        row: d[0].row,
-                        col: d[0].col,
-                        value: H[d[0].row][d[0].col]
-                    }); c ===
-                    WILD_SYMBOL && g < NUM_REELS;) f++, c = H[d[g].row][d[g].col], b.push({
+                    row: d[0].row,
+                    col: d[0].col,
+                    value: H[d[0].row][d[0].col]
+                }); c ===
+                WILD_SYMBOL && g < NUM_REELS;) f++, c = H[d[g].row][d[g].col], b.push({
                     row: d[g].row,
                     col: d[g].col,
                     value: H[d[g].row][d[g].col]
@@ -2082,10 +2093,11 @@ function CGame(a) {
                 }))
             }
         }
+        console.log("G", G);
         return B > m ? !0 : !1
     };
     this._checkForBonus =
-        function() {
+        function () {
             b = !1;
             D = 0;
             for (var a = [], d = 0; d < NUM_ROWS; d++)
@@ -2102,11 +2114,12 @@ function CGame(a) {
                 list: a
             }), 5 < D && (D = 5), b = !0)
         };
-    this._generateRandSymbols = function() {
+    this._generateRandSymbols = function () {
         for (var a = [], d = 0; d < NUM_ROWS; d++) a[d] = s_aRandSymbols[Math.floor(Math.random() * s_aRandSymbols.length)];
+        // console.log("a:",a);
         return a
     };
-    this.reelArrived = function(a, d) {
+    this.reelArrived = function (a, d) {
         if (q > MIN_REEL_LOOPS)
             if (g === d) {
                 if (!1 === C[a].isReadyToStop()) {
@@ -2116,14 +2129,14 @@ function CGame(a) {
             } else C[a].restart(this._generateRandSymbols(), !1);
         else C[a].restart(this._generateRandSymbols(), !1), 0 === a && q++
     };
-    this.increaseReelLoops = function() {
+    this.increaseReelLoops = function () {
         q += 2
     };
-    this.stopNextReel = function() {
+    this.stopNextReel = function () {
         n++;
         0 === n % 2 && (playSound("reel_stop", .3, !1), g = L[n / 2], n === 2 * NUM_REELS && this._endReelAnimation())
     };
-    this._endReelAnimation = function() {
+    this._endReelAnimation = function () {
         stopSound("reels");
         n = q = 0;
         g = L[0];
@@ -2150,11 +2163,12 @@ function CGame(a) {
         A++;
         A === N && (A = 0, $(s_oMain).trigger("show_interlevel_ad"));
         $(s_oMain).trigger("save_score", p)
+        // console.log("G", G)
     };
-    this.hidePayTable = function() {
+    this.hidePayTable = function () {
         M.hide()
     };
-    this._showWin = function() {
+    this._showWin = function () {
         if (0 < x) {
             stopSound("win");
             if (-1 !== G[x - 1].line) {
@@ -2170,7 +2184,7 @@ function CGame(a) {
         for (d = 0; d < a.length; d++) I[a[d].row][a[d].col].show(a[d].value);
         x++
     };
-    this._hideAllWins = function() {
+    this._hideAllWins = function () {
         for (var a = 0; a < G.length; a++)
             for (var d = G[a].list, e = 0; e < d.length; e++) I[d[e].row][d[e].col].stopAnim();
         z.hideAllLines();
@@ -2179,13 +2193,13 @@ function CGame(a) {
         k = GAME_STATE_SHOW_WIN;
         b && Q.show(D, h)
     };
-    this.enableColumnHitArea = function() {
+    this.enableColumnHitArea = function () {
         for (var a = 0; a < NUM_REELS; a++) v[a].visible = !0, O[a].setVisible(!0)
     };
-    this.disableColumnHitArea = function() {
+    this.disableColumnHitArea = function () {
         for (var a = 0; a < NUM_REELS; a++) v[a].visible = !1, O[a].setVisible(!1)
     };
-    this.activateLines = function(a) {
+    this.activateLines = function (a) {
         e = a;
         this.removeWinShowing();
         m = a = h * e;
@@ -2193,7 +2207,7 @@ function CGame(a) {
         z.refreshNumLines(e);
         a > p ? z.disableSpin() : z.enableSpin()
     };
-    this.addLine = function() {
+    this.addLine = function () {
         e === NUM_PAYLINES ? e = 1 : e++;
         var a = h * e;
         m = a;
@@ -2202,13 +2216,13 @@ function CGame(a) {
         z.refreshNumLines(e);
         a > p ? z.disableSpin() : z.enableSpin()
     };
-    this.changeCoinBet = function() {
+    this.changeCoinBet = function () {
         var a = Math.floor(100 * (h + 100)) / 100;
         a > MAX_BET ? (h = MIN_BET, m = h * e, m = Math.floor(100 * m) / 100, z.refreshBet(h), z.refreshTotalBet(m), a = m) : (a *= e, h += 100, h = Math.floor(100 * h) / 100,
             m = a, m = Math.floor(100 * m) / 100, z.refreshBet(h), z.refreshTotalBet(m));
         a > p ? z.disableSpin() : z.enableSpin()
     };
-    this.onMaxBet = function() {
+    this.onMaxBet = function () {
         var a = MAX_BET;
         e = NUM_PAYLINES;
         a *= e;
@@ -2219,12 +2233,12 @@ function CGame(a) {
         z.refreshNumLines(e);
         a > p ? z.disableSpin() : (z.enableSpin(), this.onSpin())
     };
-    this._onHitAreaCol = function(a) {
+    this._onHitAreaCol = function (a) {
         a = a.index;
         !0 === R[a] ? (R[a] = !1, S[a].visible = !1, v[a].visible = !0, y--, C[a].setHold(!1), C[a + NUM_REELS].setHold(!1)) : y < MAX_NUM_HOLD && (R[a] = !0, y++, S[a].visible = !0, v[a].visible = !1, C[a].setHold(!0),
             C[a + NUM_REELS].setHold(!0), playSound("press_hold", 1, !1))
     };
-    this.removeWinShowing = function() {
+    this.removeWinShowing = function () {
         M.resetHighlightCombo();
         z.resetWin();
         for (var a = 0; a < NUM_ROWS; a++)
@@ -2232,7 +2246,7 @@ function CGame(a) {
         for (a = 0; a < C.length; a++) C[a].activate();
         k = GAME_STATE_IDLE
     };
-    this.endBonus = function(a) {
+    this.endBonus = function (a) {
         a *= h;
         p += a;
         z.refreshMoney(p);
@@ -2242,33 +2256,56 @@ function CGame(a) {
         $(s_oMain).trigger("bonus_end", p);
         $(s_oMain).trigger("save_score", p)
     };
-    this.onSpin = function() {
+    this.onSpin = function () {
         stopSound("win");
         playSound("reels", .3, !1);
         this.disableColumnHitArea();
         z.disableBetBut(!0);
         this.removeWinShowing();
         MIN_WIN = s_aSymbolWin[0][s_aSymbolWin[0].length - 1];
+
         for (var a = 0; a < s_aSymbolWin.length; a++)
             for (var d = s_aSymbolWin[a], e = 0; e < d.length; e++) 0 !== d[e] && d[e] < MIN_WIN && (MIN_WIN = d[e]);
+
         MIN_WIN *= h;
+
         c && (p -= m, z.refreshMoney(p), SLOT_CASH += m, $(s_oMain).trigger("bet_placed", {
             bet: h,
             tot_bet: m
         }));
-        if (!l && C[0].visible && C[1].visible && this._checkForCombos()) this._assignWin();
+//********** oclean66 */
+        console.log("C:",C)
+        if (!l && C[0].visible && C[1].visible && this._checkForCombos()){
+            console.log("op1")
+            this._assignWin(); //estudiando
+        } 
         else if (SLOT_CASH < MIN_WIN) {
-            do a = this.generateFinalSymbols(); while (!0 === a || b)
-        } else if (Math.floor(100 * Math.random()) >
-            WIN_OCCURRENCE) {
-            do a = this.generateFinalSymbols(); while (!0 === a || b)
-        } else this._assignWin();
+            console.log("op2")
+            do a = this.generateFinalSymbols(); while (!0 === a || b) //full ramdon
+            console.log(!0,a,b)
+            
+        } else if (Math.floor(100 * Math.random()) >  WIN_OCCURRENCE) {
+            console.log("op3")
+            do a = this.generateFinalSymbols(); while (!0 === a || b) //full ramdon
+            console.log(!0,a,b)
+        } else{
+            this._assignWin(); //estudiando
+            console.log("op4")
+        } 
+            
+//************** */
+        console.log("PayTable: ", s_aSymbolWin)
+        console.log("MIN_WIN: ", MIN_WIN)
+        console.log("WIN_OCCURRENCE: ", WIN_OCCURRENCE)
+
         z.hideAllLines();
         z.disableGuiButtons();
         l = !1;
         k = GAME_STATE_SPINNING
+
+        console.log("SLOT_CASH: ", SLOT_CASH)
     };
-    this._assignWin = function() {
+    this._assignWin = function () {
         if (SLOT_CASH < BONUS_PRIZE[0][0] * h) {
             var a = 0;
             do {
@@ -2292,10 +2329,10 @@ function CGame(a) {
             do d = this.generateFinalSymbols(); while (!0 === d || b)
         }
     };
-    this.onInfoClicked = function() {
+    this.onInfoClicked = function () {
         k !== GAME_STATE_SPINNING && (M.isVisible() ? M.hide() : M.show())
     };
-    this.onExit = function() {
+    this.onExit = function () {
         this.unload();
         s_oMain.gotoMenu();
         $(s_oMain).trigger("end_session");
@@ -2307,10 +2344,10 @@ function CGame(a) {
         })
     };
     this.getState =
-        function() {
+        function () {
             return k
         };
-    this.update = function() {
+    this.update = function () {
         if (!1 !== f) switch (k) {
             case GAME_STATE_SPINNING:
                 for (var a = 0; a < C.length; a++) C[a].update(g);
@@ -2350,7 +2387,7 @@ var s_oGame, s_oTweenController;
 
 function CReelColumn(a, f, c, b) {
     var l, k, q, g, n, e, r, x, h, m, p, y, D, B, A;
-    this._init = function(a, b, c, f) {
+    this._init = function (a, b, c, f) {
         g = q = k = l = !1;
         x = 0;
         n = a;
@@ -2363,7 +2400,7 @@ function CReelColumn(a, f, c, b) {
         D = y + SYMBOL_SIZE * NUM_ROWS;
         this.initContainer(b, c)
     };
-    this.initContainer = function(a, e) {
+    this.initContainer = function (a, e) {
         A = new createjs.Container;
         A.x = a;
         A.y = e;
@@ -2381,15 +2418,15 @@ function CReelColumn(a, f, c, b) {
         }
         s_oStage.addChild(A)
     };
-    this.unload = function() {
+    this.unload = function () {
         s_oStage.removeChild(A)
     };
-    this.activate = function() {
+    this.activate = function () {
         y = A.y;
         D = y + SYMBOL_SIZE * NUM_ROWS;
         l = !0
     };
-    this._setSymbol = function(a) {
+    this._setSymbol = function (a) {
         A.removeAllChildren();
         for (var e = 0, b = 0; b < a.length; b++) {
             var c = new createSprite(s_aSymbolData[a[b]], "static", 0, 0, SYMBOL_SIZE, SYMBOL_SIZE);
@@ -2401,12 +2438,12 @@ function CReelColumn(a, f, c, b) {
             e += SYMBOL_SIZE
         }
     };
-    this.setHold = function(a) {
+    this.setHold = function (a) {
         l = !1;
         g = a;
         x = 0
     };
-    this.restart = function(a, e) {
+    this.restart = function (a, e) {
         A.y = y = REEL_START_Y;
         D = y + SYMBOL_SIZE * NUM_ROWS;
         this._setSymbol(a);
@@ -2419,18 +2456,18 @@ function CReelColumn(a, f, c, b) {
         } else
             for (b = 0; b < NUM_ROWS; b++) B[b].gotoAndStop("moving")
     };
-    this.setReadyToStop = function() {
+    this.setReadyToStop = function () {
         m = 0;
         p = MAX_FRAMES_REEL_EASE;
         h = REEL_STATE_STOP
     };
-    this.isReadyToStop = function() {
+    this.isReadyToStop = function () {
         return k
     };
-    this.isHold = function() {
+    this.isHold = function () {
         return g
     };
-    this._updateStart = function() {
+    this._updateStart = function () {
         0 === m && n < NUM_REELS && playSound("start_reel", .3, !1);
         m++;
         m > p && (m = 0, p /= 2, h++, y = A.y, D = y + SYMBOL_SIZE * NUM_ROWS);
@@ -2439,14 +2476,14 @@ function CReelColumn(a, f, c, b) {
         a = s_oTweenController.tweenValue(y, D, a);
         A.y = a
     };
-    this._updateMoving = function() {
+    this._updateMoving = function () {
         m++;
         m > p && (m = 0, y = A.y, D = y + SYMBOL_SIZE * NUM_ROWS);
         var a = s_oTweenController.easeLinear(m, 0, 1, p);
         a = s_oTweenController.tweenValue(y, D, a);
         A.y = a
     };
-    this._updateStopping = function() {
+    this._updateStopping = function () {
         m++;
         if (m >= p) l = !1, m = 0, p = MAX_FRAMES_REEL_EASE, h = REEL_STATE_START, x = 0, k = !1, q && (q = !1, A.y = REEL_OFFSET_Y), s_oGame.stopNextReel();
         else {
@@ -2455,7 +2492,7 @@ function CReelColumn(a, f, c, b) {
             A.y = a
         }
     };
-    this.update = function(a) {
+    this.update = function (a) {
         if (!1 !==
             l && (x++, x > r))
             if (g) a === n && (l = !1, s_oGame.stopNextReel(), s_oGame.stopNextReel(), 0 === n && s_oGame.increaseReelLoops());
@@ -2476,7 +2513,7 @@ function CReelColumn(a, f, c, b) {
 function CInterface(a, f, c) {
     var b, l, k, q, g, n, e, r, x, h, m, p, y, D, B, A, C, I, G, L, H = null,
         v = null;
-    this._init = function(a, c, f) {
+    this._init = function (a, c, f) {
         var w = s_oSpriteLibrary.getSprite("but_exit");
         k = CANVAS_WIDTH - w.width / 2 - 10;
         q = w.height / 2 + 10;
@@ -2557,7 +2594,7 @@ function CInterface(a, f, c) {
         for (a = 0; a < NUM_PAYLINES; a++) c = new createjs.Bitmap(s_oSpriteLibrary.getSprite("payline_" + (a + 1))), c.visible = !1, s_oStage.addChild(c), r[a] = c;
         this.refreshButtonPos(s_iOffsetX, s_iOffsetY)
     };
-    this.unload = function() {
+    this.unload = function () {
         x.unload();
         x = null;
         h.unload();
@@ -2576,105 +2613,105 @@ function CInterface(a, f, c) {
         s_oStage.removeAllChildren();
         s_oInterface = null
     };
-    this.refreshButtonPos = function(a, e) {
+    this.refreshButtonPos = function (a, e) {
         !1 !== DISABLE_SOUND_MOBILE && !1 !== s_bMobile || y.setPosition(g - a, e + n);
         H &&
             screenfull.enabled && L.setPosition(b - a, l + e);
         x.setPosition(k - a, e + q)
     };
-    this.refreshMoney = function(a) {
+    this.refreshMoney = function (a) {
         C.text = TEXT_MONEY + "\n" + a.toFixed(2) + TEXT_CURRENCY
     };
-    this.refreshBet = function(a) {
+    this.refreshBet = function (a) {
         A.text = a.toFixed(2)
     };
-    this.refreshTotalBet = function(a) {
+    this.refreshTotalBet = function (a) {
         I.text = TEXT_BET + ": " + a.toFixed(2)
     };
-    this.refreshNumLines = function(a) {
+    this.refreshNumLines = function (a) {
         G.text = a;
         for (var b = 0; b < NUM_PAYLINES; b++) b < a ? (e[b].setOn(), r[b].visible = !0) : e[b].setOff();
-        setTimeout(function() {
+        setTimeout(function () {
             for (var a = 0; a < NUM_PAYLINES; a++) r[a].visible = !1
         }, 1E3)
     };
-    this.resetWin = function() {
+    this.resetWin = function () {
         h.changeText("")
     };
-    this.refreshWinText = function(a) {
+    this.refreshWinText = function (a) {
         h.changeText(TEXT_WIN + "\n" + a.toFixed(2))
     };
-    this.showLine = function(a) {
+    this.showLine = function (a) {
         r[a - 1].visible = !0
     };
-    this.hideLine = function(a) {
+    this.hideLine = function (a) {
         r[a - 1].visible = !1
     };
-    this.hideAllLines = function() {
+    this.hideAllLines = function () {
         for (var a = 0; a < NUM_PAYLINES; a++) r[a].visible = !1
     };
-    this.disableBetBut = function(a) {
+    this.disableBetBut = function (a) {
         for (var b = 0; b < NUM_PAYLINES; b++) e[b].disable(a)
     };
-    this.enableGuiButtons = function() {
+    this.enableGuiButtons = function () {
         h.enable();
         B.enable();
         D.enable();
         p.enable();
         m.enable()
     };
-    this.enableSpin = function() {
+    this.enableSpin = function () {
         h.enable();
         B.enable()
     };
-    this.disableSpin = function() {
+    this.disableSpin = function () {
         h.disable();
         B.disable()
     };
-    this.enableMaxBet = function() {
+    this.enableMaxBet = function () {
         B.enable()
     };
-    this.disableMaxBet = function() {
+    this.disableMaxBet = function () {
         B.disable()
     };
-    this.disableGuiButtons = function() {
+    this.disableGuiButtons = function () {
         h.disable();
         B.disable();
         D.disable();
         p.disable();
         m.disable()
     };
-    this._onBetLineClicked = function(a) {
+    this._onBetLineClicked = function (a) {
         this.refreshNumLines(a);
         s_oGame.activateLines(a)
     };
-    this._onExit = function() {
+    this._onExit = function () {
         s_oGame.onExit()
     };
-    this._onSpin = function() {
+    this._onSpin = function () {
         s_oGame.onSpin()
     };
-    this._onAddLine = function() {
+    this._onAddLine = function () {
         s_oGame.addLine()
     };
-    this._onInfo = function() {
+    this._onInfo = function () {
         s_oGame.onInfoClicked()
     };
-    this._onBet = function() {
+    this._onBet = function () {
         s_oGame.changeCoinBet()
     };
     this._onMaxBet =
-        function() {
+        function () {
             s_oGame.onMaxBet()
         };
-    this._onAudioToggle = function() {
+    this._onAudioToggle = function () {
         Howler.mute(s_bAudioActive);
         s_bAudioActive = !s_bAudioActive
     };
-    this.resetFullscreenBut = function() {
+    this.resetFullscreenBut = function () {
         H && screenfull.enabled && L.setActive(s_bFullscreen)
     };
-    this._onFullscreenRelease = function() {
+    this._onFullscreenRelease = function () {
         s_bFullscreen ? v.call(window.document) : H.call(window.document.documentElement);
         sizeHandler()
     };
@@ -2686,7 +2723,7 @@ var s_oInterface = null;
 
 function CPayTablePanel() {
     var a, f, c, b, l, k;
-    this._init = function() {
+    this._init = function () {
         k = new createjs.Container;
         l = createBitmap(s_oSpriteLibrary.getSprite("paytable"));
         k.addChild(l);
@@ -2708,47 +2745,47 @@ function CPayTablePanel() {
         k.visible = !1;
         s_oStage.addChild(k);
         var a = this;
-        k.on("pressup", function() {
+        k.on("pressup", function () {
             a._onExit()
         })
     };
-    this.unload = function() {
+    this.unload = function () {
         var b = this;
-        k.off("pressup", function() {
+        k.off("pressup", function () {
             b._onExit()
         });
         s_oStage.removeChild(k);
         for (var c = 0; c < a.length; c++) k.removeChild(a[c]);
         for (c = 0; c < f.length; c++) k.removeChild(f[c])
     };
-    this._createPayouts = function() {
+    this._createPayouts = function () {
         a = [];
         f = [];
         for (var b = [{
-                x: 446,
-                y: 106
-            }, {
-                x: 654,
-                y: 106
-            }, {
-                x: 860,
-                y: 106
-            }, {
-                x: 1070,
-                y: 106
-            }, {
-                x: 446,
-                y: 195
-            }, {
-                x: 654,
-                y: 195
-            }, {
-                x: 860,
-                y: 195
-            }, {
-                x: 1070,
-                y: 195
-            }], c = 0, l = 0; l < s_aSymbolWin.length; l++) {
+            x: 446,
+            y: 106
+        }, {
+            x: 654,
+            y: 106
+        }, {
+            x: 860,
+            y: 106
+        }, {
+            x: 1070,
+            y: 106
+        }, {
+            x: 446,
+            y: 195
+        }, {
+            x: 654,
+            y: 195
+        }, {
+            x: 860,
+            y: 195
+        }, {
+            x: 1070,
+            y: 195
+        }], c = 0, l = 0; l < s_aSymbolWin.length; l++) {
             for (var e = [], r = 0; r < s_aSymbolWin[l].length; r++) e[r] = s_aSymbolWin[l][r];
             do r = e.indexOf(0), -1 !== r && e.splice(r, 1); while (-1 !== r);
             r = e.length;
@@ -2779,31 +2816,31 @@ function CPayTablePanel() {
             }
         }
     };
-    this.show = function() {
+    this.show = function () {
         k.visible = !0
     };
-    this.hide = function() {
+    this.hide = function () {
         k.visible = !1
     };
-    this.resetHighlightCombo = function() {
+    this.resetHighlightCombo = function () {
         for (var b = 0; b < a.length; b++)
             for (var c = 0; c < a[b].length; c++) a[b][c].color = "#ffffff", f[b][c].color = "#ffff00", createjs.Tween.removeTweens(f[b][c]), f[b][c].alpha = 1
     };
-    this.highlightCombo = function(a, b) {
+    this.highlightCombo = function (a, b) {
         a !== BONUS_SYMBOL && (f[a - 1][NUM_REELS - b].color = "#ff0000", this.tweenAlpha(f[a - 1][NUM_REELS - b], 0))
     };
-    this.tweenAlpha = function(a, b) {
+    this.tweenAlpha = function (a, b) {
         var c = this;
         createjs.Tween.get(a).to({
             alpha: b
-        }, 200).call(function() {
+        }, 200).call(function () {
             1 === b ? c.tweenAlpha(a, 0) : c.tweenAlpha(a, 1)
         })
     };
-    this._onExit = function() {
+    this._onExit = function () {
         s_oGame.hidePayTable()
     };
-    this.isVisible = function() {
+    this.isVisible = function () {
         return k.visible
     };
     this._init()
@@ -2812,7 +2849,7 @@ function CPayTablePanel() {
 function CStaticSymbolCell(a, f, c, b) {
     var l = -1,
         k, q, g, n;
-    this._init = function(a, b, c, f) {
+    this._init = function (a, b, c, f) {
         n = new createjs.Container;
         n.visible = !1;
         q = [];
@@ -2843,13 +2880,13 @@ function CStaticSymbolCell(a, f, c, b) {
         n.addChild(g);
         s_oStage.addChild(n)
     };
-    this.unload = function() {
+    this.unload = function () {
         s_oStage.removeChild(n)
     };
-    this.hide = function() {
+    this.hide = function () {
         -1 < l && (g.gotoAndStop("static"), g.visible = !1, q[l].gotoAndPlay("static"), n.visible = !1)
     };
-    this.show = function(a) {
+    this.show = function (a) {
         g.gotoAndPlay("anim");
         g.visible = !0;
         for (var b = 0; b < NUM_SYMBOLS; b++) q[b].visible = b + 1 === a ? !0 : !1;
@@ -2858,12 +2895,12 @@ function CStaticSymbolCell(a, f, c, b) {
         k = q[a - 1].spriteSheet.getNumFrames();
         n.visible = !0
     };
-    this._onAnimEnded = function(a, b) {
-        q[b.index].currentFrame !== k && (q[b.index].stop(), setTimeout(function() {
+    this._onAnimEnded = function (a, b) {
+        q[b.index].currentFrame !== k && (q[b.index].stop(), setTimeout(function () {
             q[b.index].gotoAndPlay(1)
         }, 100))
     };
-    this.stopAnim = function() {
+    this.stopAnim = function () {
         q[l].gotoAndStop("static");
         q[l].visible = !1;
         g.gotoAndStop("static");
@@ -2873,31 +2910,31 @@ function CStaticSymbolCell(a, f, c, b) {
 }
 
 function CTweenController() {
-    this.tweenValue = function(a, f, c) {
+    this.tweenValue = function (a, f, c) {
         return a + c * (f - a)
     };
-    this.easeLinear = function(a, f, c, b) {
+    this.easeLinear = function (a, f, c, b) {
         return c * a / b + f
     };
-    this.easeInCubic = function(a, f, c, b) {
+    this.easeInCubic = function (a, f, c, b) {
         b = (a /= b) * a * a;
         return f + c * b
     };
-    this.easeBackInQuart = function(a, f, c, b) {
+    this.easeBackInQuart = function (a, f, c, b) {
         b = (a /= b) * a;
         return f + c * (2 * b * b + 2 * b * a + -3 * b)
     };
-    this.easeInBack = function(a, f, c, b) {
+    this.easeInBack = function (a, f, c, b) {
         return c * (a /= b) * a * (2.70158 * a - 1.70158) + f
     };
-    this.easeOutCubic = function(a, f, c, b) {
+    this.easeOutCubic = function (a, f, c, b) {
         return c * ((a = a / b - 1) * a * a + 1) + f
     }
 }
 
 function CBonusPanel() {
     var a, f, c, b, l, k, q, g, n;
-    this._init = function() {
+    this._init = function () {
         n = new createjs.Container;
         s_oStage.addChild(n);
         var a = createBitmap(s_oSpriteLibrary.getSprite("bonus_bg"));
@@ -2919,21 +2956,21 @@ function CBonusPanel() {
         a = new createjs.SpriteSheet(a);
         b = [];
         for (var c = [{
-                x: 253,
-                y: 30
-            }, {
-                x: 577,
-                y: 118
-            }, {
-                x: 946,
-                y: 19
-            }, {
-                x: 262,
-                y: 305
-            }, {
-                x: 927,
-                y: 305
-            }], f = 0; 5 >
+            x: 253,
+            y: 30
+        }, {
+            x: 577,
+            y: 118
+        }, {
+            x: 946,
+            y: 19
+        }, {
+            x: 262,
+            y: 305
+        }, {
+            x: 927,
+            y: 305
+        }], f = 0; 5 >
             f; f++) {
             var h = createSprite(a, "idle", 0, 0, BONUS_ITEM_WIDTH, BONUS_ITEM_HEIGHT);
             h.on("click", this._onBonusItemReleased, this, !1, f);
@@ -2997,10 +3034,10 @@ function CBonusPanel() {
             y: 405
         }]
     };
-    this.unload = function() {
+    this.unload = function () {
         for (var a = 0; 5 > a; a++) b[a].off("click", this._onBonusItemReleased)
     };
-    this.show = function(e, f) {
+    this.show = function (e, f) {
         $(s_oMain).trigger("bonus_start");
         c = f;
         a = !1;
@@ -3026,7 +3063,7 @@ function CBonusPanel() {
             alpha: 1
         }, 1E3)
     };
-    this._onBonusItemReleased = function(e, g) {
+    this._onBonusItemReleased = function (e, g) {
         if (!a) {
             a = !0;
             do var k = Math.floor(Math.random() * s_aPrizeOccurence.length); while (l[s_aPrizeOccurence[k]] * c > SLOT_CASH);
@@ -3036,9 +3073,9 @@ function CBonusPanel() {
             this.endBonus(g)
         }
     };
-    this.endBonus = function(a) {
+    this.endBonus = function (a) {
         new CScoreText("X" + f, g[a].x, g[a].y);
-        setTimeout(function() {
+        setTimeout(function () {
             n.alpha = 0;
             n.visible = !1;
             for (var a = 0; a < b.length; a++) b[a].visible = !1;
@@ -3050,7 +3087,7 @@ function CBonusPanel() {
 
 function CScoreText(a, f, c) {
     var b;
-    this._init = function(a, c, f) {
+    this._init = function (a, c, f) {
         b = new createjs.Text("00000", "50px " + FONT_GAME, "#ff0000");
         b.textAlign = "center";
         b.text = a;
@@ -3062,20 +3099,20 @@ function CScoreText(a, f, c) {
         var g = this;
         createjs.Tween.get(b).to({
             alpha: 1
-        }, 400, createjs.Ease.quadIn).call(function() {
+        }, 400, createjs.Ease.quadIn).call(function () {
             g.moveUp()
         })
     };
-    this.moveUp = function() {
+    this.moveUp = function () {
         var a = b.y - 100,
             c = this;
         createjs.Tween.get(b).to({
             y: a
-        }, 1E3, createjs.Ease.sineIn).call(function() {
+        }, 1E3, createjs.Ease.sineIn).call(function () {
             c.unload()
         })
     };
-    this.unload = function() {
+    this.unload = function () {
         s_oStage.removeChild(b)
     };
     this._init(a, f, c)
@@ -3083,7 +3120,7 @@ function CScoreText(a, f, c) {
 
 function CCreditsPanel() {
     var a, f, c, b, l, k, q, g, n, e;
-    this._init = function() {
+    this._init = function () {
         e = new createjs.Container;
         e.alpha = 0;
         s_oStage.addChild(e);
@@ -3140,14 +3177,14 @@ function CCreditsPanel() {
         }, 600, createjs.Ease.cubicOut);
         this.refreshButtonPos(s_iOffsetX, s_iOffsetY)
     };
-    this.refreshButtonPos = function(a, b) {};
-    this.unload = function() {
+    this.refreshButtonPos = function (a, b) { };
+    this.unload = function () {
         q.off("click", this._onLogoButRelease);
         b.unload();
         b = null;
         s_oStage.removeChild(e)
     };
-    this._onLogoButRelease = function() {
+    this._onLogoButRelease = function () {
         window.open("https://kingdeportes.com/", "_blank")
     };
     this._init()
@@ -3166,25 +3203,25 @@ function extractRootDomain(a) {
     2 < c && (a = f[c - 2] + "." + f[c - 1]);
     return a
 }
-var getClosestTop = function() {
-        var a = window,
-            f = !1;
-        try {
-            for (; a.parent.document !== a.document;)
-                if (a.parent.document) a = a.parent;
-                else {
-                    f = !0;
-                    break
-                }
-        } catch (c) {
-            f = !0
-        }
-        return {
-            topFrame: a,
-            err: f
-        }
-    },
-    getBestPageUrl = function(a) {
+var getClosestTop = function () {
+    var a = window,
+        f = !1;
+    try {
+        for (; a.parent.document !== a.document;)
+            if (a.parent.document) a = a.parent;
+            else {
+                f = !0;
+                break
+            }
+    } catch (c) {
+        f = !0
+    }
+    return {
+        topFrame: a,
+        err: f
+    }
+},
+    getBestPageUrl = function (a) {
         var f = a.topFrame,
             c = "";
         if (a.err) try {
