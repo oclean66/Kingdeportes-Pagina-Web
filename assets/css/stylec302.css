@@ -1797,7 +1797,7 @@ label.error {
 	padding-bottom: 0;
 }
 .half-header.header-curbed{
-	padding:20px 0 120px;
+	padding:20px 0 0px;
 	z-index:2;
 }
 .half-header-about{
@@ -3410,7 +3410,7 @@ label.error {
 		margin: 0 auto;
 	}
 	.feature-mockups .phone-mockup {
-		bottom: -40px;
+		bottom: 40px;
 	}
 }
 @media only screen and (max-width: 479px) {
