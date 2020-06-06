@@ -1536,7 +1536,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/deuces-wild.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/deuces-wild.jpg",
-        "category": "Pendiente"
+        "category": "Juego de cartas"
       },
       {
         "code": "f6dc589a",
@@ -1547,7 +1547,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/deuces-wild-10-hands.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/deuces-wild-10-hands.jpg",
-        "category": "Pendiente"
+        "category": "Juego de cartas"
       },
       {
         "code": "3d434026",
@@ -1558,7 +1558,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/deuces-wild-25-hands.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/deuces-wild-25-hands.jpg",
-        "category": "Pendiente"
+        "category": "Juego de cartas"
       },
       {
         "code": "b10f9e0c",
@@ -1569,7 +1569,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/deuces-wild-50-hands.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/deuces-wild-50-hands.jpg",
-        "category": "Pendiente"
+        "category": "Juego de cartas"
       },
       {
         "code": "48840fa5",
@@ -1580,7 +1580,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/deuces-wild-poker-multiple-hands.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/deuces-wild-poker-multiple-hands.jpg",
-        "category": "Pendiente"
+        "category": "Juego de cartas"
       },
       {
         "code": "90b8619c",
@@ -1591,7 +1591,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/devils-delight.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/devils-delight.jpg",
-        "category": "Pendiente"
+        "category": "Maquinita"
       },
       {
         "code": "74f1bcc2",
@@ -1601,7 +1601,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/diamond-cats.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/diamond-cats.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/diamond-cats.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2e8f4dff",
@@ -1612,7 +1613,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/diamond-dogs.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/diamond-dogs.jpg",
-        "category": "Pendiente"
+        "category": "Maquinita"
       },
       {
         "code": "a1456d86",
@@ -1623,7 +1624,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/diamond-monkey.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/diamond-monkey.jpg",
-        "category": "Pendiente"
+        "category": "Maquinita"
       },
       {
         "code": "82d8b596",
@@ -1634,7 +1635,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/diamond-queen.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/diamond-queen.jpg",
-        "category": "Pendiente"
+        "category": "Maquinita"
       },
       {
         "code": "91259abb",
@@ -1645,7 +1646,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/diamonds-on-fire.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/diamonds-on-fire.jpg",
-        "category": "Pendiente"
+        "category": "Maquinita"
       },
       {
         "code": "6adc79ff",
@@ -1656,7 +1657,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/diamond-trio.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/diamond-trio.jpg",
-        "category": "Pendiente"
+        "category": "Maquinita"
       },
       {
         "code": "9c648bc0",
@@ -1676,7 +1677,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dino-reels-81.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dino-reels-81.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dino-reels-81.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a7cf98d5",
@@ -1686,7 +1688,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/disco-spins.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/disco-spins.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/disco-spins.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4079e8d8",
@@ -1696,7 +1699,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/divine-dreams.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/divine-dreams.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/divine-dreams.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d2a3e644",
@@ -1706,7 +1710,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dolphin-quest.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dolphin-quest.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dolphin-quest.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "bb901fc8",
@@ -1716,7 +1721,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dolphins-pearl-classic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dolphins-pearl-classic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dolphins-pearl-classic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f7d41102",
@@ -1726,7 +1732,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dolphins-pearl-classic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dolphins-pearl-classic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dolphins-pearl-classic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7c1440ac",
@@ -1736,7 +1743,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dolphins-pearl-deluxe.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dolphins-pearl-deluxe.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dolphins-pearl-deluxe.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "aff455a0",
@@ -1746,7 +1754,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/double-stacks.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/double-stacks.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/double-stacks.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8ef414e1",
@@ -1756,7 +1765,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/double-triple-chance.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/double-triple-chance.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/double-triple-chance.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e7122e7d",
@@ -1766,7 +1776,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dracula.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dracula.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dracula.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2b1b02ab",
@@ -1776,7 +1787,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dragon-island.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragon-island.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragon-island.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b3926de3",
@@ -1786,7 +1798,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dragon-reels.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragon-reels.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragon-reels.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "40a1ad3b",
@@ -1796,7 +1809,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dragons-deep.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-deep.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-deep.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "118f932e",
@@ -1806,7 +1820,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dragon-shrine.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragon-shrine.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragon-shrine.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "baf8c399",
@@ -1816,7 +1831,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dragons-kingdom.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-kingdom.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-kingdom.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "dc01594f",
@@ -1826,7 +1842,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dragons-pearl.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-pearl.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-pearl.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8e9aff9a",
@@ -1836,7 +1853,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dragons-pearl.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-pearl.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-pearl.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "20ddfe09",
@@ -1846,7 +1864,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dragons-treasure.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-treasure.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragons-treasure.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5367bf70",
@@ -1856,7 +1875,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dragonz.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragonz.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dragonz.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "3309d137",
@@ -1866,7 +1886,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dream-date.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dream-date.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dream-date.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "630327a2",
@@ -1876,7 +1897,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/drive-multiplier-mayhem.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/drive-multiplier-mayhem.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/drive-multiplier-mayhem.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "56e5a179",
@@ -1886,7 +1908,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/durian-dynamite.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/durian-dynamite.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/durian-dynamite.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "64c8d39d",
@@ -1896,7 +1919,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dwarfs-gone-wild.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dwarfs-gone-wild.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dwarfs-gone-wild.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "929ee68c",
@@ -1906,7 +1930,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/dynasty-of-ra.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dynasty-of-ra.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/dynasty-of-ra.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "004ef818",
@@ -1916,7 +1941,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/eagles-wings.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eagles-wings.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eagles-wings.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "0f5278e9",
@@ -1926,7 +1952,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/eastern-emeralds.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eastern-emeralds.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eastern-emeralds.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e936b288",
@@ -1936,7 +1963,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/eggomatic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eggomatic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eggomatic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9e0e2ed5",
@@ -1946,7 +1974,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/egyptian-heroes.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/egyptian-heroes.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/egyptian-heroes.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "fa09d4c6",
@@ -1956,7 +1985,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/elements.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/elements.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/elements.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b2e85510",
@@ -1966,7 +1996,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/emoticoins.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/emoticoins.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/emoticoins.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "26bfa1e2",
@@ -1976,7 +2007,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/emperor-of-the-sea.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/emperor-of-the-sea.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/emperor-of-the-sea.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "99864a72",
@@ -1986,7 +2018,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/european-roulette.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/european-roulette.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/european-roulette.jpg",
+        "category": "Juego de mesa"
       },
       {
         "code": "58517c12",
@@ -1996,7 +2029,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/evolution.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/evolution.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/evolution.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e881ca0b",
@@ -2006,7 +2040,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/excalibur.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/excalibur.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/excalibur.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8e22f28c",
@@ -2016,7 +2051,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/extra-wild.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/extra-wild.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/extra-wild.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7207f36b",
@@ -2026,7 +2062,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/eye-of-ra.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eye-of-ra.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eye-of-ra.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4f105376",
@@ -2036,7 +2073,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/eye-of-the-dragon.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eye-of-the-dragon.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/eye-of-the-dragon.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7c1849fd",
@@ -2046,7 +2084,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fairy-gate.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fairy-gate.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fairy-gate.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "0e23f8b5",
@@ -2056,7 +2095,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fairy-queen.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fairy-queen.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fairy-queen.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ce685f64",
@@ -2066,7 +2106,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/faust.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/faust.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/faust.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbade0",
@@ -2076,7 +2117,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fenix-play.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fenix-play.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fenix-play.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbae20",
@@ -2086,7 +2128,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fenix-play-27.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fenix-play-27.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fenix-play-27.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "28d9b070",
@@ -2096,7 +2139,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fire-bird.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fire-bird.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fire-bird.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "130ddb49",
@@ -2106,7 +2150,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fire-ice.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fire-ice.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fire-ice.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "472056c9",
@@ -2116,7 +2161,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fire-of-egypt.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fire-of-egypt.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fire-of-egypt.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "84fc1f0d",
@@ -2126,7 +2172,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fire-opals.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fire-opals.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fire-opals.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d3c447b0",
@@ -2136,7 +2183,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fisticuffs.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fisticuffs.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fisticuffs.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5729bc80",
@@ -2146,7 +2194,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/flame-dancer.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flame-dancer.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flame-dancer.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4e86a0b6",
@@ -2156,7 +2205,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/flamenco-roses.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flamenco-roses.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flamenco-roses.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e75e7204",
@@ -2166,7 +2216,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/flaming-hot.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flaming-hot.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flaming-hot.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d3ccecba",
@@ -2176,7 +2227,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/flowers.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flowers.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flowers.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "836a6695",
@@ -2186,7 +2238,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/flowers-christmas-edition.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flowers-christmas-edition.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/flowers-christmas-edition.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8c704d8b",
@@ -2196,7 +2249,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/football-champions-cup.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/football-champions-cup.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/football-champions-cup.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5317f78d",
@@ -2206,7 +2260,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/forbidden-throne.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/forbidden-throne.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/forbidden-throne.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "73785a31",
@@ -2216,7 +2271,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fortunas-fruits.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fortunas-fruits.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fortunas-fruits.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "aded1ab3",
@@ -2226,7 +2282,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fortune-girl.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fortune-girl.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fortune-girl.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "36e49293",
@@ -2236,7 +2293,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fortune-spells.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fortune-spells.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fortune-spells.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "aec5dce3",
@@ -2246,7 +2304,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fortuneteller.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fortuneteller.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fortuneteller.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a55c1535",
@@ -2256,7 +2315,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/frankenstein.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/frankenstein.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/frankenstein.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c6ea2090",
@@ -2266,7 +2326,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/french-roulette.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/french-roulette.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/french-roulette.jpg",
+        "category": "Juego de mesa"
       },
       {
         "code": "21ac7fd7",
@@ -2276,7 +2337,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fruit-case.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-case.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-case.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d17a0969",
@@ -2286,7 +2348,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fruit-cocktail.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-cocktail.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-cocktail.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a4f04c52",
@@ -2296,7 +2359,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fruit-cocktail-2.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-cocktail-2.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-cocktail-2.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4bf74120",
@@ -2306,7 +2370,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fruits-and-royals.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruits-and-royals.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruits-and-royals.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2058d07d",
@@ -2316,7 +2381,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fruit-sensation.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-sensation.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-sensation.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5a071e95",
@@ -2326,7 +2392,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fruit-shop.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-shop.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-shop.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "80cb38ea",
@@ -2336,7 +2403,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fruitshop-christmas-edition.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruitshop-christmas-edition.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruitshop-christmas-edition.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e1ecdf35",
@@ -2346,7 +2414,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fruits-kingdom.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruits-kingdom.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruits-kingdom.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6bddf846",
@@ -2356,7 +2425,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/fruit-spin.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-spin.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/fruit-spin.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "795feddd",
@@ -2366,7 +2436,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/frutilicious.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/frutilicious.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/frutilicious.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6a742dde",
@@ -2376,7 +2447,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/funky-seventies.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/funky-seventies.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/funky-seventies.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ab0e6004",
@@ -2386,7 +2458,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/game-of-thrones.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/game-of-thrones.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/game-of-thrones.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "69b53af3",
@@ -2396,7 +2469,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/game-of-thrones-243-ways.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/game-of-thrones-243-ways.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/game-of-thrones-243-ways.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "80c970f2",
@@ -2406,7 +2480,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gangster-world.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gangster-world.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gangster-world.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "19f98ce2",
@@ -2416,7 +2491,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/garage.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/garage.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/garage.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "67156fa8",
@@ -2426,7 +2502,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/garden-party.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/garden-party.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/garden-party.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "43ada671",
@@ -2436,7 +2513,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gem-star.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gem-star.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gem-star.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1d7cb4d1",
@@ -2446,7 +2524,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/ghost-pirates.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ghost-pirates.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ghost-pirates.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ccbbcae7",
@@ -2456,7 +2535,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/girls-with-guns.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/girls-with-guns.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/girls-with-guns.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4174bd70",
@@ -2466,7 +2546,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/girls-with-guns-frozen-dawn.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/girls-with-guns-frozen-dawn.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/girls-with-guns-frozen-dawn.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a3f22c13",
@@ -2476,7 +2557,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gladiator-road-to-rome.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gladiator-road-to-rome.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gladiator-road-to-rome.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5e500581",
@@ -2486,7 +2568,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/glow.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/glow.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/glow.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "13e3b416",
@@ -2496,7 +2579,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gnome.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gnome.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gnome.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1aae3bdb",
@@ -2506,7 +2590,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/go-bananas.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/go-bananas.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/go-bananas.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4ad4db45",
@@ -2516,7 +2601,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gods-of-giza.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gods-of-giza.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gods-of-giza.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9cccb902",
@@ -2526,7 +2612,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gold-cup.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gold-cup.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gold-cup.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "db6c2fb9",
@@ -2536,7 +2623,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/golden-ark.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-ark.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-ark.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "487290ee",
@@ -2546,7 +2634,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/golden-book.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-book.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-book.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "53875b6f",
@@ -2556,7 +2645,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/golden-gate.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-gate.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-gate.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b8e8c49e",
@@ -2566,7 +2656,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/golden-grimoire.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-grimoire.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-grimoire.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5655dc77",
@@ -2576,7 +2667,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/golden-sphinx.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-sphinx.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/golden-sphinx.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6ab9c621",
@@ -2586,7 +2678,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/goldilocks-wild-bears.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/goldilocks-wild-bears.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/goldilocks-wild-bears.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e8fa6eb4",
@@ -2596,7 +2689,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/goldlab.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/goldlab.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/goldlab.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b228b7f4",
@@ -2606,7 +2700,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gold-of-persia.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gold-of-persia.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gold-of-persia.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "65f32289",
@@ -2616,7 +2711,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gonzos-quest.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gonzos-quest.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gonzos-quest.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbaea0",
@@ -2626,7 +2722,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/good-luck-40.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/good-luck-40.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/good-luck-40.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "71689d2f",
@@ -2636,7 +2733,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gorilla.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gorilla.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gorilla.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4927f401",
@@ -2646,7 +2744,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gothic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gothic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gothic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "65e4f754",
@@ -2656,7 +2755,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/grace-of-cleopatra.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/grace-of-cleopatra.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/grace-of-cleopatra.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9e9b7a38",
@@ -2666,7 +2766,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/grand-monarch.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/grand-monarch.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/grand-monarch.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "46570f05",
@@ -2676,7 +2777,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/groovy-sixties.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/groovy-sixties.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/groovy-sixties.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c5eba010",
@@ -2686,7 +2788,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gryphons-gold-classic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gryphons-gold-classic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gryphons-gold-classic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "bf882e0f",
@@ -2696,7 +2799,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/gryphons-gold-deluxe.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gryphons-gold-deluxe.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/gryphons-gold-deluxe.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ad22c769",
@@ -2706,7 +2810,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/guns-n-roses.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/guns-n-roses.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/guns-n-roses.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "56842a1d",
@@ -2716,7 +2821,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/halloween.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/halloween.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/halloween.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5869db87",
@@ -2726,7 +2832,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/halloween-jack.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/halloween-jack.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/halloween-jack.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "eaa12eda",
@@ -2736,7 +2843,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hat-trick.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hat-trick.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hat-trick.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9bbcf9b9",
@@ -2746,7 +2854,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/haunted-hospital.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/haunted-hospital.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/haunted-hospital.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f4a28574",
@@ -2756,7 +2865,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/helena.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/helena.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/helena.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "10638ce5",
@@ -2766,7 +2876,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hells-grannies.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hells-grannies.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hells-grannies.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "31b7a73e",
@@ -2776,7 +2887,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hidden-valley-2.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hidden-valley-2.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hidden-valley-2.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f855f841",
@@ -2786,7 +2898,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/highlander.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/highlander.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/highlander.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b108feaf",
@@ -2796,7 +2909,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/highschool-manga.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/highschool-manga.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/highschool-manga.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "fc59bc06",
@@ -2806,7 +2920,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hit-2-split.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hit-2-split.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hit-2-split.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "603a4856",
@@ -2816,7 +2931,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hollyjolly-penguins.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hollyjolly-penguins.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hollyjolly-penguins.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4538d37b",
@@ -2826,7 +2942,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hooks-heroes.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hooks-heroes.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hooks-heroes.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "68e09f65",
@@ -2836,7 +2953,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-777.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-777.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-777.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6265b125",
@@ -2846,7 +2964,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-chance.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-chance.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-chance.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6533b20f",
@@ -2856,7 +2975,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-city.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-city.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-city.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8545bcc6",
@@ -2866,7 +2986,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-diamonds.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-diamonds.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-diamonds.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6ce09977",
@@ -2876,7 +2997,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hotline.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hotline.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hotline.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbaee0",
@@ -2886,7 +3008,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-party.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-party.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-party.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ab02a3e7",
@@ -2896,7 +3019,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-scatter.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-scatter.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-scatter.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "eb7911ec",
@@ -2906,7 +3030,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-seven.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-seven.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-seven.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4cb3644e",
@@ -2916,7 +3041,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-star.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-star.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-star.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ddf198b3",
@@ -2926,7 +3052,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-sync.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-sync.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-sync.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "75f48ee8",
@@ -2936,7 +3063,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hot-twenty.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-twenty.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hot-twenty.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8bd24418",
@@ -2946,7 +3074,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/huangdi-yellow-emperor.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/huangdi-yellow-emperor.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/huangdi-yellow-emperor.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbaf10",
@@ -2956,7 +3085,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hungry-shark.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hungry-shark.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hungry-shark.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a0c90381",
@@ -2966,7 +3096,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/hypno-hippo.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hypno-hippo.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/hypno-hippo.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "290f691e",
@@ -2976,7 +3107,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/ice-bar-27.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ice-bar-27.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ice-bar-27.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "bf793241",
@@ -2986,7 +3118,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/illuminous.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/illuminous.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/illuminous.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f1014911",
@@ -2996,7 +3129,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/immortal-romance.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/immortal-romance.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/immortal-romance.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4e3bda51",
@@ -3006,7 +3140,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/indian-spirit.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/indian-spirit.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/indian-spirit.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6f5addb9",
@@ -3016,7 +3151,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/inferno.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/inferno.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/inferno.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d2a69040",
@@ -3026,7 +3162,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/in-the-forest.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/in-the-forest.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/in-the-forest.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "78321119",
@@ -3036,7 +3173,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/isis.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/isis.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/isis.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "0e46635b",
@@ -3046,7 +3184,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/island.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/island.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/island.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "cc2b1446",
@@ -3056,7 +3195,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/island-2.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/island-2.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/island-2.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "745a1670",
@@ -3066,7 +3206,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/ivan-the-immortal-king.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ivan-the-immortal-king.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ivan-the-immortal-king.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "bdea5d76",
@@ -3076,7 +3217,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jack-beanstalk.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jack-beanstalk.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jack-beanstalk.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e86fe32a",
@@ -3086,7 +3228,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jack-hammer.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jack-hammer.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jack-hammer.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8fb6c2b1",
@@ -3096,7 +3239,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jack-hammer-2.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jack-hammer-2.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jack-hammer-2.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "db459796",
@@ -3106,7 +3250,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jack-on-hold.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jack-on-hold.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jack-on-hold.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a9cc80a6",
@@ -3116,7 +3261,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jackpot-builders.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jackpot-builders.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jackpot-builders.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "aec39d84",
@@ -3126,7 +3272,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jacks-or-better.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jacks-or-better.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jacks-or-better.jpg",
+        "category": "Juego de mesa"
       },
       {
         "code": "da95dc89",
@@ -3136,7 +3283,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jacks-or-better-10-hands.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jacks-or-better-10-hands.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jacks-or-better-10-hands.jpg",
+        "category": "Juego de mesa"
       },
       {
         "code": "d4b324d8",
@@ -3146,7 +3294,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jacks-or-better-5-hands.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jacks-or-better-5-hands.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jacks-or-better-5-hands.jpg",
+        "category": "Juego de mesa"
       },
       {
         "code": "8bc3b7c4",
@@ -3156,7 +3305,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jacks-or-better-multiple-hands.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jacks-or-better-multiple-hands.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jacks-or-better-multiple-hands.jpg",
+        "category": "Juego de mesa"
       },
       {
         "code": "cb77c6f8",
@@ -3166,7 +3316,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jamboree-jubilee.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jamboree-jubilee.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jamboree-jubilee.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "978bd37c",
@@ -3176,7 +3327,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jekyllhyde.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jekyllhyde.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jekyllhyde.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "207ec075",
@@ -3186,7 +3338,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jewel-of-the-arts.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jewel-of-the-arts.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jewel-of-the-arts.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "81c61f08",
@@ -3196,7 +3349,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jewels-of-the-sea.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jewels-of-the-sea.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jewels-of-the-sea.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ab383492",
@@ -3206,7 +3360,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jimi-hendrix.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jimi-hendrix.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jimi-hendrix.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5cf14b91",
@@ -3216,7 +3371,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jingle-spin.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jingle-spin.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jingle-spin.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5894f7c4",
@@ -3226,7 +3382,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/joker-27.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-27.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-27.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d604c575",
@@ -3236,7 +3393,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/joker-27-plus.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-27-plus.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-27-plus.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "aed1e7ef",
@@ -3246,7 +3404,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/joker-81.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-81.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-81.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "883a67d5",
@@ -3256,7 +3415,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/joker-pro.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-pro.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-pro.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ed19ab2d",
@@ -3266,7 +3426,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/joker-strike.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-strike.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-strike.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f0e2d1a3",
@@ -3276,7 +3437,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/joker-strong.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-strong.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-strong.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a8e30609",
@@ -3286,7 +3448,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/joker-wild-multiple-hands.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-wild-multiple-hands.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/joker-wild-multiple-hands.jpg",
+        "category": "Juego de mesa"
       },
       {
         "code": "35abdccb",
@@ -3296,7 +3459,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jungle-games.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jungle-games.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jungle-games.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "16c79ccf",
@@ -3306,7 +3470,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jungle-jim-eldorado.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jungle-jim-eldorado.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jungle-jim-eldorado.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4dfc650f",
@@ -3316,7 +3481,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jungle-queen.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jungle-queen.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jungle-queen.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c49dcadd",
@@ -3326,7 +3492,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jungle-spirit.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jungle-spirit.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jungle-spirit.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "deebbdc0",
@@ -3336,7 +3503,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/jurassic-world.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jurassic-world.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/jurassic-world.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c9a04262",
@@ -3346,7 +3514,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/justice-league.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/justice-league.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/justice-league.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "defdb49b",
@@ -3356,7 +3525,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/just-jewels-classic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/just-jewels-classic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/just-jewels-classic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2e38d778",
@@ -3366,7 +3536,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/just-jewels-deluxe.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/just-jewels-deluxe.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/just-jewels-deluxe.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ca95096e",
@@ -3376,7 +3547,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/katana.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/katana.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/katana.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "05b58348",
@@ -3386,7 +3558,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/kathmandu.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/kathmandu.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/kathmandu.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "714037ad",
@@ -3396,7 +3569,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/king-of-slots.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/king-of-slots.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/king-of-slots.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "82e471a9",
@@ -3406,7 +3580,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/kings-of-cash.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/kings-of-cash.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/kings-of-cash.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "dcdaa0ff",
@@ -3416,7 +3591,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/kitty-glitter.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/kitty-glitter.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/kitty-glitter.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "dfe777ed",
@@ -3426,7 +3602,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/knights-life.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/knights-life.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/knights-life.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a95264f1",
@@ -3436,7 +3613,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/koi-princess.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/koi-princess.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/koi-princess.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a2deca60",
@@ -3446,7 +3624,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lady-in-red.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lady-in-red.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lady-in-red.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1919c203",
@@ -3456,7 +3635,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lady-joker.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lady-joker.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lady-joker.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "87cc61eb",
@@ -3466,7 +3646,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/leonardos-code.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/leonardos-code.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/leonardos-code.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8c8fa09d",
@@ -3476,7 +3657,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/leprechaun-hills.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/leprechaun-hills.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/leprechaun-hills.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "790d3386",
@@ -3486,7 +3668,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/life-of-riches.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/life-of-riches.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/life-of-riches.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "fdcb603f",
@@ -3496,7 +3679,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/life-of-riches.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/life-of-riches.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/life-of-riches.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "36189b11",
@@ -3506,7 +3690,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lightning-wild.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lightning-wild.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lightning-wild.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "15700466",
@@ -3516,7 +3701,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lights.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lights.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lights.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2912ad54",
@@ -3526,7 +3712,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/loaded.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/loaded.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/loaded.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c3ccf6aa",
@@ -3536,7 +3723,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lord-of-the-ocean-deluxe.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lord-of-the-ocean-deluxe.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lord-of-the-ocean-deluxe.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "efc61e64",
@@ -3546,7 +3734,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lost-island.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lost-island.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lost-island.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6f3f8c59",
@@ -3556,7 +3745,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lost-relics.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lost-relics.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lost-relics.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "aa6147ed",
@@ -3566,7 +3756,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lost-treasure.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lost-treasure.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lost-treasure.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "45b1cf25",
@@ -3576,7 +3767,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lovely-lady.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lovely-lady.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lovely-lady.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9c648c00",
@@ -3586,7 +3778,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-81.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-81.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-81.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ac216c03",
@@ -3596,7 +3789,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-88.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-88.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-88.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2f10a4f7",
@@ -3606,7 +3800,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-angler.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-angler.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-angler.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "441d5980",
@@ -3616,7 +3811,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-bells.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-bells.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-bells.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1f0ac3c9",
@@ -3626,7 +3822,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-coin.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-coin.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-coin.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbafd0",
@@ -3636,7 +3833,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-fortune.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-fortune.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-fortune.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "384803d2",
@@ -3646,7 +3844,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-haunter.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-haunter.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-haunter.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "85ac7040",
@@ -3656,7 +3855,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-koi.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-koi.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-koi.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "580d06fe",
@@ -3666,7 +3866,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-ladys-charm-6-deluxe.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-ladys-charm-6-deluxe.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-ladys-charm-6-deluxe.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "cee3d110",
@@ -3676,7 +3877,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-ladys-charm-classic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-ladys-charm-classic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-ladys-charm-classic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7325b9f1",
@@ -3686,7 +3888,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-ladys-charm-deluxe.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-ladys-charm-deluxe.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-ladys-charm-deluxe.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c0f15cee",
@@ -3696,7 +3899,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-little-gods.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-little-gods.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-little-gods.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "172b803c",
@@ -3706,7 +3910,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-queen.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-queen.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-queen.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "bd3332a2",
@@ -3716,7 +3921,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-rose.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-rose.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-rose.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b6123c4a",
@@ -3726,7 +3932,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/lucky-twins.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-twins.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/lucky-twins.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d37aea80",
@@ -3736,7 +3943,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mad-mechanic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mad-mechanic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mad-mechanic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d815283e",
@@ -3746,7 +3954,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-81.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-81.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-81.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbb000",
@@ -3756,7 +3965,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-fruit-4.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-fruit-4.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-fruit-4.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "bc23f0de",
@@ -3766,7 +3976,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-fruits.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-fruits.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-fruits.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbb040",
@@ -3776,7 +3987,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-fruits-27.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-fruits-27.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-fruits-27.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "63704f89",
@@ -3786,7 +3998,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-fruits-81.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-fruits-81.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-fruits-81.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbb0c0",
@@ -3796,7 +4009,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-hot.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-hot.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-hot.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbb100",
@@ -3806,7 +4020,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-hot-4.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-hot-4.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-hot-4.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "bb3b8753",
@@ -3816,7 +4031,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-idol.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-idol.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-idol.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7bb34e20",
@@ -3826,7 +4042,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-mirror-deluxe-ii.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-mirror-deluxe-ii.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-mirror-deluxe-ii.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d2596170",
@@ -3836,7 +4053,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-money.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-money.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-money.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbb140",
@@ -3846,7 +4064,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-of-the-ring.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-of-the-ring.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-of-the-ring.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c62c1f7d",
@@ -3856,7 +4075,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-owl.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-owl.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-owl.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a7d8f0a6",
@@ -3866,7 +4086,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-portals.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-portals.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-portals.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "625f2032",
@@ -3876,7 +4097,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-princess.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-princess.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-princess.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "16b8c70d",
@@ -3886,7 +4108,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-target.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-target.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-target.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66dbb1b0",
@@ -3896,7 +4119,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/magic-target-deluxe.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-target-deluxe.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/magic-target-deluxe.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "874ce85b",
@@ -3906,7 +4130,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/majestic-forest.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/majestic-forest.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/majestic-forest.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1b096be2",
@@ -3916,7 +4141,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/man-of-steel.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/man-of-steel.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/man-of-steel.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d633fb80",
@@ -3926,7 +4152,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/marco-polo.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/marco-polo.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/marco-polo.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f6953c64",
@@ -3936,7 +4163,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/masques-of-san-marco.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/masques-of-san-marco.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/masques-of-san-marco.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "27c939aa",
@@ -3946,7 +4174,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/master-of-mystery.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/master-of-mystery.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/master-of-mystery.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b525faa7",
@@ -3956,7 +4185,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mayana.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mayana.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mayana.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "cb17d76b",
@@ -3966,7 +4196,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mayan-moons.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mayan-moons.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mayan-moons.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "409181eb",
@@ -3976,7 +4207,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mayan-princess.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mayan-princess.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mayan-princess.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b5c4a558",
@@ -3986,7 +4218,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mayan-riches.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mayan-riches.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mayan-riches.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6aeb5598",
@@ -3996,7 +4229,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mega-joker.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mega-joker.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mega-joker.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "bdd240ed",
@@ -4006,7 +4240,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mermaids-gold.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mermaids-gold.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mermaids-gold.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "026c8502",
@@ -4016,7 +4251,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mermaids-millions.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mermaids-millions.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mermaids-millions.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c1b70499",
@@ -4026,7 +4262,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mermaids-pearl.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mermaids-pearl.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mermaids-pearl.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66472340",
@@ -4036,7 +4273,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/merry-fruits.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/merry-fruits.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/merry-fruits.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "3baeabb8",
@@ -4046,7 +4284,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/midnight-fruits-81.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/midnight-fruits-81.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/midnight-fruits-81.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b90aa124",
@@ -4056,7 +4295,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mighty-arthur.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mighty-arthur.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mighty-arthur.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "aa51328a",
@@ -4066,7 +4306,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/miss-kitty.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/miss-kitty.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/miss-kitty.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "bc3dcec3",
@@ -4076,7 +4317,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/miss-red.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/miss-red.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/miss-red.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c434f1d6",
@@ -4086,7 +4328,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/monster-wheels.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/monster-wheels.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/monster-wheels.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b536cab6",
@@ -4096,7 +4339,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/motorhead.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/motorhead.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/motorhead.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a33e3a26",
@@ -4106,7 +4350,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mountain-king.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mountain-king.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mountain-king.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "0ee94d5e",
@@ -4116,7 +4361,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mount-olympus.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mount-olympus.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mount-olympus.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7b8ecbae",
@@ -4126,7 +4372,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/multifruits.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/multifruits.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/multifruits.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b938a11a",
@@ -4136,7 +4383,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/multi-vegas-81.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/multi-vegas-81.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/multi-vegas-81.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6e7d5d42",
@@ -4146,7 +4394,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/muse.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/muse.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/muse.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "aab972b5",
@@ -4156,7 +4405,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mystery-at-the-mansion.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mystery-at-the-mansion.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mystery-at-the-mansion.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "0cf2321d",
@@ -4166,7 +4416,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mystery-jack.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mystery-jack.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mystery-jack.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9c648c40",
@@ -4176,7 +4427,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mystery-joker-ii.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mystery-joker-ii.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mystery-joker-ii.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "19f036a6",
@@ -4186,7 +4438,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mystic-secrets.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mystic-secrets.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mystic-secrets.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6b6f5184",
@@ -4196,7 +4449,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/mythic-maiden.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mythic-maiden.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/mythic-maiden.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "acf63b3a",
@@ -4206,7 +4460,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/neon-fruits.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/neon-fruits.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/neon-fruits.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "72327a2e",
@@ -4216,7 +4471,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/neon-staxx.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/neon-staxx.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/neon-staxx.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2389b8a2",
@@ -4226,7 +4482,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/night-club-81.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/night-club-81.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/night-club-81.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d5219e5b",
@@ -4236,7 +4493,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/nine-stars.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/nine-stars.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/nine-stars.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2c041626",
@@ -4246,7 +4504,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/ninja-magic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ninja-magic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ninja-magic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "94b052db",
@@ -4256,7 +4515,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/ninja-path.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ninja-path.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ninja-path.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ee0c5c41",
@@ -4266,7 +4526,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/noahs-ark.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/noahs-ark.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/noahs-ark.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "fc4efbfe",
@@ -4276,7 +4537,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/northern-sky.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/northern-sky.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/northern-sky.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c261da97",
@@ -4286,7 +4548,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/nrvna.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/nrvna.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/nrvna.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e38fd5ce",
@@ -4296,7 +4559,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/ocean-tale.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ocean-tale.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ocean-tale.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66372ff0",
@@ -4306,7 +4570,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/oink-country-love.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/oink-country-love.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/oink-country-love.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "61f75ea0",
@@ -4316,7 +4581,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/old-king-cole.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/old-king-cole.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/old-king-cole.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "476021b3",
@@ -4326,7 +4592,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/olympus-glory.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/olympus-glory.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/olympus-glory.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9193469c",
@@ -4336,7 +4603,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/orca.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/orca.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/orca.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "79b8f2f6",
@@ -4346,7 +4614,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/orion.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/orion.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/orion.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "30bed6a9",
@@ -4356,7 +4625,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pacific-attack.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pacific-attack.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pacific-attack.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "3065a954",
@@ -4366,7 +4636,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pamplona.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pamplona.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pamplona.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9c648c80",
@@ -4376,7 +4647,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pandora.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pandora.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pandora.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b8488650",
@@ -4386,7 +4658,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pandoras-box.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pandoras-box.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pandoras-box.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "da2bffcd",
@@ -4396,7 +4669,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/party-time.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/party-time.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/party-time.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "301a74dd",
@@ -4406,7 +4680,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/perchta.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/perchta.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/perchta.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d3966c53",
@@ -4416,7 +4691,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pharaohs-night.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pharaohs-night.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pharaohs-night.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9f4cbc57",
@@ -4426,7 +4702,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pharaohs-ring.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pharaohs-ring.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pharaohs-ring.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c9a997da",
@@ -4436,7 +4713,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pharaohs-tomb.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pharaohs-tomb.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pharaohs-tomb.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7a43a927",
@@ -4446,7 +4724,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pharaons-gold-2-classic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pharaons-gold-2-classic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pharaons-gold-2-classic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "72488835",
@@ -4456,7 +4735,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/phoenix-sun.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/phoenix-sun.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/phoenix-sun.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c785de89",
@@ -4466,7 +4746,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pied-piper.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pied-piper.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pied-piper.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e869d754",
@@ -4476,7 +4757,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/piggy-riches.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/piggy-riches.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/piggy-riches.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "445ffaf7",
@@ -4486,7 +4768,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pirate.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pirate.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pirate.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "46a03897",
@@ -4496,7 +4779,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pirate-2.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pirate-2.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pirate-2.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "074a29fd",
@@ -4506,7 +4790,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pirates-charm.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pirates-charm.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pirates-charm.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "3f4ab6c9",
@@ -4516,7 +4801,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pistoleras.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pistoleras.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pistoleras.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6c2cea33",
@@ -4526,7 +4812,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/planet-of-the-apes.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/planet-of-the-apes.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/planet-of-the-apes.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "916680ad",
@@ -4536,7 +4823,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/plenty-on-twenty.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/plenty-on-twenty.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/plenty-on-twenty.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "79898301",
@@ -4546,7 +4834,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pretty-kitty.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pretty-kitty.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pretty-kitty.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "67a7f095",
@@ -4556,7 +4845,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/prime-zone.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/prime-zone.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/prime-zone.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "3b174371",
@@ -4566,7 +4856,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/prowling-panther.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/prowling-panther.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/prowling-panther.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6d1ad676",
@@ -4576,7 +4867,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/pyramid.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pyramid.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/pyramid.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5ba6e28e",
@@ -4586,7 +4878,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/queen-cleopatra.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/queen-cleopatra.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/queen-cleopatra.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a4382eef",
@@ -4596,7 +4889,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/queen-of-hearts-classic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/queen-of-hearts-classic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/queen-of-hearts-classic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b53fc0b1",
@@ -4606,7 +4900,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/queen-of-hearts-deluxe.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/queen-of-hearts-deluxe.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/queen-of-hearts-deluxe.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9ce9d606",
@@ -4616,7 +4911,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/queen-of-the-nile-2.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/queen-of-the-nile-2.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/queen-of-the-nile-2.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e09dc185",
@@ -4626,7 +4922,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/quest-for-gold.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/quest-for-gold.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/quest-for-gold.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d2ba88eb",
@@ -4636,7 +4933,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/rabbit-in-the-hat.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rabbit-in-the-hat.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rabbit-in-the-hat.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "46bbb300",
@@ -4646,7 +4944,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/railroad.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/railroad.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/railroad.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a32151bf",
@@ -4656,7 +4955,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/ramses-ii.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ramses-ii.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/ramses-ii.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ddbf02d9",
@@ -4666,7 +4966,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/rapunzel-tower.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rapunzel-tower.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rapunzel-tower.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7745dc18",
@@ -4676,7 +4977,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/razortooth.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/razortooth.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/razortooth.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "42c19bc1",
@@ -4686,7 +4988,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/red-baron.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/red-baron.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/red-baron.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "044f2745",
@@ -4696,7 +4999,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/red-chilli.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/red-chilli.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/red-chilli.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ee7a1f95",
@@ -4706,7 +5010,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/redhot-20.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redhot-20.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redhot-20.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "58b3ac67",
@@ -4716,7 +5021,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/redhot-40.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redhot-40.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redhot-40.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "cc190007",
@@ -4726,7 +5032,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/redhot-burning.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redhot-burning.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redhot-burning.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e718d6f1",
@@ -4736,7 +5043,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/redhot-fruits.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redhot-fruits.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redhot-fruits.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "52297549",
@@ -4746,7 +5054,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/red-lady.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/red-lady.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/red-lady.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "54c7d762",
@@ -4756,7 +5065,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/redline-racer.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redline-racer.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/redline-racer.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "435d7e8c",
@@ -4766,7 +5076,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/reel-rush.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/reel-rush.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/reel-rush.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2ca9e703",
@@ -4776,7 +5087,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/reel-steal.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/reel-steal.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/reel-steal.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5efc2cca",
@@ -4786,7 +5098,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/resident.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/resident.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/resident.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "da7d6427",
@@ -4796,7 +5109,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/rex.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rex.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rex.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "68ed6c7f",
@@ -4806,7 +5120,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/riches-of-india.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/riches-of-india.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/riches-of-india.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c8d86464",
@@ -4816,7 +5131,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/rise-of-ra.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rise-of-ra.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rise-of-ra.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1f219f2e",
@@ -4826,7 +5142,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/rising-liner.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rising-liner.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rising-liner.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "3327b737",
@@ -4836,7 +5153,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/river-queen.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/river-queen.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/river-queen.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "4a00e3c6",
@@ -4846,7 +5164,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/roaring-forties.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/roaring-forties.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/roaring-forties.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1658f891",
@@ -4856,7 +5175,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/robin-hood.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/robin-hood.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/robin-hood.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d53db4e5",
@@ -4866,7 +5186,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/robocop.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/robocop.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/robocop.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d5be7278",
@@ -4876,7 +5197,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/robo-jack.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/robo-jack.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/robo-jack.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e2222289",
@@ -4886,7 +5208,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/rock-climber.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rock-climber.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rock-climber.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "15649047",
@@ -4896,7 +5219,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/roulette-pro.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/roulette-pro.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/roulette-pro.jpg",
+        "category": "Juego de mesa"
       },
       {
         "code": "357f13ce",
@@ -4906,7 +5230,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/roulette-royal.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/roulette-royal.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/roulette-royal.jpg",
+        "category": "Juego de mesa"
       },
       {
         "code": "1bb4a363",
@@ -4916,7 +5241,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/royal-dynasty.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/royal-dynasty.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/royal-dynasty.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "57efeb4d",
@@ -4926,7 +5252,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/royal-secrets.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/royal-secrets.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/royal-secrets.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7563c861",
@@ -4936,7 +5263,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/royal-unicorn.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/royal-unicorn.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/royal-unicorn.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5626db47",
@@ -4946,7 +5274,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/rumpel-wildspins.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rumpel-wildspins.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/rumpel-wildspins.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "66b6a26f",
@@ -4956,7 +5285,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sakura-fortune.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sakura-fortune.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sakura-fortune.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d19c65d9",
@@ -4966,7 +5296,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/santas-wild-ride.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/santas-wild-ride.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/santas-wild-ride.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "7348aa74",
@@ -4976,7 +5307,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/savanna-king.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/savanna-king.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/savanna-king.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "22ce1012",
@@ -4986,7 +5318,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/scarface.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/scarface.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/scarface.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5e7e33e8",
@@ -4996,7 +5329,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/scrooge.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/scrooge.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/scrooge.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "52a9a859",
@@ -5006,7 +5340,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/scruffy-duck.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/scruffy-duck.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/scruffy-duck.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1acb96c8",
@@ -5016,7 +5351,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/scudamore.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/scudamore.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/scudamore.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e7e1e4c0",
@@ -5026,7 +5362,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sea-sirens.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sea-sirens.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sea-sirens.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "abd7bdff",
@@ -5036,7 +5373,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/second-strike.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/second-strike.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/second-strike.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "28457482",
@@ -5046,7 +5384,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/secret-code.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secret-code.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secret-code.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "2361b349",
@@ -5056,7 +5395,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/secret-elixir.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secret-elixir.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secret-elixir.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "29b168ae",
@@ -5066,7 +5406,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/secrets-of-atlantis.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secrets-of-atlantis.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secrets-of-atlantis.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d6b05d56",
@@ -5076,7 +5417,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/secrets-of-christmas.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secrets-of-christmas.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secrets-of-christmas.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "54cc349e",
@@ -5086,7 +5428,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/secrets-of-horus.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secrets-of-horus.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secrets-of-horus.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "026f32c1",
@@ -5096,7 +5439,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/secrets-of-stones.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secrets-of-stones.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/secrets-of-stones.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "91471dc0",
@@ -5106,7 +5450,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/serengeti-heat.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/serengeti-heat.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/serengeti-heat.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a86c64bc",
@@ -5116,7 +5461,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/serenity.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/serenity.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/serenity.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "0313c098",
@@ -5126,7 +5472,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sevens-high.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sevens-high.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sevens-high.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8377bb46",
@@ -5136,7 +5483,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/shangrila-cluster-pays.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/shangrila-cluster-pays.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/shangrila-cluster-pays.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "deefb450",
@@ -5146,7 +5494,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sharky-classic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sharky-classic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sharky-classic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "6b503c5f",
@@ -5156,7 +5505,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/shining-crown.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/shining-crown.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/shining-crown.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "00aef7a0",
@@ -5166,7 +5516,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/shooting-stars.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/shooting-stars.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/shooting-stars.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ab062316",
@@ -5176,7 +5527,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/show-girls.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/show-girls.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/show-girls.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "0e217439",
@@ -5186,7 +5538,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/siberian-storm.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/siberian-storm.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/siberian-storm.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a0ab32a4",
@@ -5196,7 +5549,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/silent-run.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/silent-run.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/silent-run.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c7611889",
@@ -5206,7 +5560,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/silver-fang.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/silver-fang.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/silver-fang.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "76b65798",
@@ -5216,7 +5571,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/simsalabim.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/simsalabim.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/simsalabim.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a9a7ff53",
@@ -5226,7 +5582,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/six-acrobats.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/six-acrobats.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/six-acrobats.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5a877efa",
@@ -5236,7 +5593,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sizzling-6.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-6.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-6.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f12c6ec1",
@@ -5246,7 +5604,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sizzling-777.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-777.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-777.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f49e85d8",
@@ -5256,7 +5615,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sizzling-gems.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-gems.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-gems.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1398db44",
@@ -5266,7 +5626,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sizzling-hot-6-extra-gold.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-hot-6-extra-gold.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-hot-6-extra-gold.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e120e410",
@@ -5276,7 +5637,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sizzling-hot-classic.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-hot-classic.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-hot-classic.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c1e7f692",
@@ -5286,7 +5648,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sizzling-hot-deluxe.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-hot-deluxe.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sizzling-hot-deluxe.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9c648cb0",
@@ -5296,7 +5659,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/slot-birds.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/slot-birds.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/slot-birds.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ceaeaabe",
@@ -5306,7 +5670,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/smiling-joker-ii.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/smiling-joker-ii.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/smiling-joker-ii.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b6ec0af5",
@@ -5316,7 +5681,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/south-park.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/south-park.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/south-park.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "9b796ec8",
@@ -5326,7 +5692,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/south-park-reel-chaos.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/south-park-reel-chaos.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/south-park-reel-chaos.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "3da4d12e",
@@ -5336,7 +5703,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/space-wars.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/space-wars.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/space-wars.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c02e64db",
@@ -5346,7 +5714,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sparks.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sparks.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sparks.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "63fb37bf",
@@ -5356,7 +5725,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/spellcast.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spellcast.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spellcast.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f3dbb801",
@@ -5366,7 +5736,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/spinata-grande.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spinata-grande.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spinata-grande.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c64e7216",
@@ -5376,7 +5747,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/spinions-beach-party.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spinions-beach-party.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spinions-beach-party.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e03011a6",
@@ -5386,7 +5758,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/spinning-stars.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spinning-stars.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spinning-stars.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "27c88fcf",
@@ -5396,7 +5769,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/spring-queen.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spring-queen.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/spring-queen.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d591a1e0",
@@ -5406,7 +5780,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/starburst.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/starburst.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/starburst.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b725f6ff",
@@ -5416,7 +5791,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/stardust.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/stardust.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/stardust.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "71bc0721",
@@ -5426,7 +5802,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/stars.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/stars.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/stars.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d9858f8d",
@@ -5436,7 +5813,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/star-trek.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/star-trek.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/star-trek.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f85ee72e",
@@ -5446,7 +5824,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/steam-tower.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/steam-tower.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/steam-tower.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1dd7f334",
@@ -5456,7 +5835,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/stickers.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/stickers.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/stickers.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "daceb9a2",
@@ -5466,7 +5846,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sticky-bandits.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sticky-bandits.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sticky-bandits.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b7607618",
@@ -5476,7 +5857,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/stories-of-infinity.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/stories-of-infinity.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/stories-of-infinity.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "8dfc4d2d",
@@ -5486,7 +5868,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/strolling-staxx.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/strolling-staxx.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/strolling-staxx.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "c4d38687",
@@ -5496,7 +5879,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/subtopia.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/subtopia.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/subtopia.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "b45c7dbc",
@@ -5506,7 +5890,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sugar-parade.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sugar-parade.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sugar-parade.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e4e8155e",
@@ -5516,7 +5901,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sumatran-storm.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sumatran-storm.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sumatran-storm.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "5864a8f1",
@@ -5526,7 +5912,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/summer-queen.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/summer-queen.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/summer-queen.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a813a8ef",
@@ -5536,7 +5923,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sun-tide.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sun-tide.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sun-tide.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "e3614171",
@@ -5546,7 +5934,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/super-7-reels.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-7-reels.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-7-reels.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "eaf92e81",
@@ -5556,7 +5945,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/super-eighties.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-eighties.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-eighties.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1ee981aa",
@@ -5566,7 +5956,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/super-hot.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-hot.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-hot.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "ec4df199",
@@ -5576,7 +5967,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/super-hot-20.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-hot-20.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-hot-20.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "d9c23f3a",
@@ -5586,7 +5978,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/super-hot-40.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-hot-40.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/super-hot-40.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "853c1434",
@@ -5596,7 +5989,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/supreme-hot.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/supreme-hot.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/supreme-hot.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "327e885b",
@@ -5606,7 +6000,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sweet-life.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sweet-life.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sweet-life.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "1bee3095",
@@ -5616,7 +6011,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sweet-life-2.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sweet-life-2.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sweet-life-2.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "f1bebed9",
@@ -5626,7 +6022,8 @@
         "mobile": false,
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/sweet-sins.jpg",
-        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sweet-sins.jpg"
+        "image_big": "https://ocbslots.s3.amazonaws.com/270x152/sweet-sins.jpg",
+        "category": "Maquinita"
       },
       {
         "code": "a0e9bfe7",
