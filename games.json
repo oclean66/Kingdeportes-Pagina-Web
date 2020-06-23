@@ -1227,7 +1227,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/coin-of-apollo.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/coin-of-apollo.jpg",
-        "category": "pendiente"
+        "category": "Pendiente"
       },
       {
         "code": "66dbad30",
@@ -1238,7 +1238,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/colin-the-cat.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/colin-the-cat.jpg",
-        "category": "pendiente"
+        "category": "Pendiente"
       },
       {
         "code": "18a8e772",
@@ -1249,7 +1249,7 @@
         "new": true,
         "image": "https://ocbslots.s3.amazonaws.com/140x140/colossus.jpg",
         "image_big": "https://ocbslots.s3.amazonaws.com/270x152/colossus.jpg",
-        "category": "pendiente"
+        "category": "Pendiente"
       },
       {
         "code": "916e8245",
